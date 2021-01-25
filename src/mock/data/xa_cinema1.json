@@ -1,0 +1,417 @@
+{
+    "cinemas": [
+      {
+        "address": "碑林区二环南路西段太白印象城3层310",
+        "alwaysGO": "false",
+        "areaIds": [
+          "48"
+        ],
+        "bizStatus": "3",
+        "cinemaId": "5913",
+        "cinemaName": "橙天嘉禾影城（太白印象城店）",
+        "city": "西安",
+        "distance": "-1.0",
+        "latitude": "34.234633",
+        "longitude": "108.921415",
+        "mcardOpen": "false",
+        "minPrice": "3190",
+        "oriPrice": "3190",
+        "scheduleCloseTime": "0",
+        "scheduleCount": "149",
+        "specialTagList": [
+          {
+            "tagName": "新人",
+            "tagType": "1"
+          }
+        ],
+        "supportList": [
+          {
+            "tagName": "可改签",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "观影小食",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "4K厅",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "可停车",
+            "tagType": "-1"
+          }
+        ],
+        "supportMcard": "false"
+      },
+      {
+        "address": "阎良区人民路东段231号",
+        "alwaysGO": "false",
+        "areaIds": [
+          "917"
+        ],
+        "bizStatus": "3",
+        "cinemaId": "6240",
+        "cinemaName": "阎良电影院",
+        "city": "西安",
+        "distance": "-1.0",
+        "latitude": "34.658417",
+        "longitude": "109.229741",
+        "mcardOpen": "false",
+        "minPrice": "1990",
+        "oriPrice": "1990",
+        "scheduleCloseTime": "0",
+        "scheduleCount": "56",
+        "specialTagList": [
+          {
+            "tagName": "新人",
+            "tagType": "1"
+          }
+        ],
+        "supportList": [
+          {
+            "tagName": "可改签",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "观影小食",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "杜比全景声厅",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "可停车",
+            "tagType": "-1"
+          }
+        ],
+        "supportMcard": "false"
+      },
+      {
+        "address": "雁塔区丈八东路118号",
+        "alwaysGO": "false",
+        "areaIds": [
+          "47"
+        ],
+        "bizStatus": "3",
+        "cinemaId": "9335",
+        "cinemaName": "西安花溪湾影城",
+        "city": "西安",
+        "distance": "-1.0",
+        "latitude": "34.197977",
+        "longitude": "108.91715",
+        "mcardOpen": "false",
+        "minPrice": "3300",
+        "oriPrice": "3300",
+        "scheduleCloseTime": "15",
+        "scheduleCount": "4",
+        "specialTagList": [
+          {
+            "tagName": "新人",
+            "tagType": "1"
+          }
+        ],
+        "supportList": [
+          
+        ],
+        "supportMcard": "false"
+      },
+      {
+        "address": "雁塔区长安中路30号服务社购物中心8层",
+        "alwaysGO": "false",
+        "areaIds": [
+          "47"
+        ],
+        "bizStatus": "3",
+        "cinemaId": "9348",
+        "cinemaName": "西安欢乐小马电影城",
+        "city": "西安",
+        "distance": "-1.0",
+        "latitude": "34.2199094111",
+        "longitude": "108.9462858763",
+        "mcardOpen": "false",
+        "minPrice": "2500",
+        "oriPrice": "2500",
+        "scheduleCloseTime": "0",
+        "scheduleCount": "69",
+        "specialTagList": [
+          {
+            "tagName": "新人",
+            "tagType": "1"
+          }
+        ],
+        "supportList": [
+          {
+            "tagName": "可改签",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "观影小食",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "VIP厅",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "可停车",
+            "tagType": "-1"
+          }
+        ],
+        "supportMcard": "false"
+      },
+      {
+        "address": "长安区西长安街105号长安中央广场A座2楼（西北饭店斜对面）",
+        "alwaysGO": "false",
+        "areaIds": [
+          "911"
+        ],
+        "bizStatus": "3",
+        "cinemaId": "9535",
+        "cinemaName": "奥斯卡长安国际影城",
+        "city": "西安",
+        "distance": "-1.0",
+        "latitude": "34.156175",
+        "longitude": "108.937312",
+        "mcardOpen": "false",
+        "minPrice": "1980",
+        "oriPrice": "1980",
+        "scheduleCloseTime": "5",
+        "scheduleCount": "65",
+        "specialTagList": [
+          {
+            "tagName": "新人",
+            "tagType": "1"
+          }
+        ],
+        "supportList": [
+          {
+            "tagName": "可退票",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "可改签",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "观影小食",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "艺术影厅",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "可停车",
+            "tagType": "-1"
+          }
+        ],
+        "supportMcard": "false"
+      },
+      {
+        "address": "临潼区北环路中段新全都广场四层",
+        "alwaysGO": "false",
+        "areaIds": [
+          "910"
+        ],
+        "bizStatus": "3",
+        "cinemaId": "10037",
+        "cinemaName": "西安曲江国际影城（临潼店）",
+        "city": "西安",
+        "distance": "-1.0",
+        "latitude": "34.371529",
+        "longitude": "109.215437",
+        "mcardOpen": "false",
+        "minPrice": "2800",
+        "oriPrice": "2800",
+        "scheduleCloseTime": "3",
+        "scheduleCount": "27",
+        "specialTagList": [
+          {
+            "tagName": "新人",
+            "tagType": "1"
+          }
+        ],
+        "supportList": [
+          {
+            "tagName": "观影小食",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "可停车",
+            "tagType": "-1"
+          }
+        ],
+        "supportMcard": "false"
+      },
+      {
+        "address": "雁塔区二环南路西段64号凯德广场5层",
+        "alwaysGO": "false",
+        "areaIds": [
+          "47"
+        ],
+        "bizStatus": "3",
+        "cinemaId": "13145",
+        "cinemaName": "卢米埃影城(凯德广场店)",
+        "city": "西安",
+        "distance": "-1.0",
+        "latitude": "34.228772",
+        "longitude": "108.93662",
+        "mcardOpen": "false",
+        "minPrice": "3500",
+        "oriPrice": "3500",
+        "scheduleCloseTime": "5",
+        "scheduleCount": "61",
+        "specialTagList": [
+          {
+            "tagName": "新人",
+            "tagType": "1"
+          }
+        ],
+        "supportList": [
+          {
+            "tagName": "可改签",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "观影小食",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "杜比全景声厅",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "可停车",
+            "tagType": "-1"
+          }
+        ],
+        "supportMcard": "false"
+      },
+      {
+        "address": "未央区北二环与太华北路369号万达广场4F",
+        "alwaysGO": "false",
+        "areaIds": [
+          "909"
+        ],
+        "bizStatus": "3",
+        "cinemaId": "14855",
+        "cinemaName": "万达影城（西安大明宫店）",
+        "city": "西安",
+        "distance": "-1.0",
+        "latitude": "34.3149886",
+        "longitude": "108.9717452553",
+        "mcardOpen": "false",
+        "minPrice": "3500",
+        "oriPrice": "3500",
+        "scheduleCloseTime": "0",
+        "scheduleCount": "87",
+        "specialTagList": [
+          {
+            "tagName": "新人",
+            "tagType": "1"
+          }
+        ],
+        "supportList": [
+          {
+            "tagName": "可改签",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "IMAX厅",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "可停车",
+            "tagType": "-1"
+          }
+        ],
+        "supportMcard": "false"
+      },
+      {
+        "address": "新城区解放路中段63号民乐新都汇四层",
+        "alwaysGO": "false",
+        "areaIds": [
+          "908"
+        ],
+        "bizStatus": "3",
+        "cinemaId": "14878",
+        "cinemaName": "西安万达影城东新街店",
+        "city": "西安",
+        "distance": "-1.0",
+        "latitude": "34.264329",
+        "longitude": "108.964414",
+        "mcardOpen": "false",
+        "minPrice": "2500",
+        "oriPrice": "2500",
+        "scheduleCloseTime": "1",
+        "scheduleCount": "70",
+        "specialTagList": [
+          {
+            "tagName": "新人",
+            "tagType": "1"
+          }
+        ],
+        "supportList": [
+          {
+            "tagName": "可改签",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "realD厅",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "可停车",
+            "tagType": "-1"
+          }
+        ],
+        "supportMcard": "false"
+      },
+      {
+        "address": "碑林区雁塔路北段8号万达广场娱乐楼四层",
+        "alwaysGO": "false",
+        "areaIds": [
+          "48"
+        ],
+        "bizStatus": "3",
+        "cinemaId": "14963",
+        "cinemaName": "西安碑林万达广场店",
+        "city": "西安",
+        "distance": "-1.0",
+        "latitude": "34.243526",
+        "longitude": "108.960574",
+        "mcardOpen": "false",
+        "minPrice": "3000",
+        "oriPrice": "3000",
+        "scheduleCloseTime": "1",
+        "scheduleCount": "90",
+        "specialTagList": [
+          {
+            "tagName": "新人",
+            "tagType": "1"
+          }
+        ],
+        "supportList": [
+          {
+            "tagName": "可改签",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "IMAX厅",
+            "tagType": "-1"
+          },
+          {
+            "tagName": "可停车",
+            "tagType": "-1"
+          }
+        ],
+        "supportMcard": "false"
+      }
+    ],
+    "mCardBanners": [
+      
+    ],
+    "noLoginTip": "登录后可查看常去影院"
+  }

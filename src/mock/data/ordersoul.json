@@ -1,0 +1,1130 @@
+ mtopjsonp1({
+  "api": "mtop.film.mtopshowapi.getextendshowbyid",
+  "data": {
+    "returnCode": "0",
+    "returnValue": {
+      "adLink": "",
+      "adUrl": "",
+      "alipayH5Url": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1335505&hasbuybtn=false",
+      "artisteNum": "10",
+      "artistes": {
+        "actor": [
+          {
+            "artisteName": "张震",
+            "artisteNameEn": "Chen Chang",
+            "avatar": "i4/TB1WlylQXYqK1RjSZLeXXbXppXa_.jpg",
+            "bornDay": "1976-10-14",
+            "id": "925071",
+            "profession": "演员",
+            "roleName": "梁检"
+          },
+          {
+            "artisteName": "张钧甯",
+            "artisteNameEn": "Chun-Ning Chang",
+            "avatar": "i4/TB1FLeYxHY1gK0jSZTEXXXDQVXa_.jpg",
+            "bornDay": "1982-09-04",
+            "id": "1249307",
+            "profession": "演员",
+            "roleName": "阿爆"
+          },
+          {
+            "artisteName": "孙安可",
+            "artisteNameEn": "Anke Sun",
+            "avatar": "i1/O1CN01XjsJic233eKLFvg9Q_!!6000000007200-0-alipicbeacon.jpg",
+            "id": "3591705",
+            "profession": "演员",
+            "roleName": "李燕"
+          },
+          {
+            "artisteName": "李铭顺",
+            "artisteNameEn": "Christopher Lee",
+            "avatar": "i3/TB19VkxGXzqK1RjSZFCXXbbxVXa_.jpg",
+            "bornDay": "1971-07-23",
+            "id": "1097761",
+            "profession": "演员",
+            "roleName": "万宇凡"
+          },
+          {
+            "artisteName": "张柏嘉",
+            "artisteNameEn": "Baijia Zhang",
+            "avatar": "i4/O1CN01DZmvmv1Tptt1iCIIF_!!6000000002432-0-alipicbeacon.jpg",
+            "bornDay": "1993-06-16",
+            "id": "2104796",
+            "profession": "演员",
+            "roleName": "唐素贞"
+          },
+          {
+            "artisteName": "林晖闵",
+            "artisteNameEn": "Eric Lin",
+            "avatar": "i1/TB1adTtEbr1gK0jSZR0XXbP8XXa_.jpg",
+            "bornDay": "1997-09-10",
+            "id": "1867271",
+            "profession": "演员",
+            "roleName": "王天佑"
+          },
+          {
+            "artisteName": "古斌",
+            "artisteNameEn": "Bing Gu",
+            "avatar": "i2/O1CN01XytuuK1IVKJtDCeY3_!!6000000000898-0-alipicbeacon.jpg",
+            "id": "3601234",
+            "profession": "演员"
+          }
+        ],
+        "directors": [
+          {
+            "artisteName": "程伟豪",
+            "artisteNameEn": "Weihao Cheng",
+            "avatar": "i3/TB1zPeuelLoK1RjSZFuXXXn0XXa_.jpg",
+            "bornDay": "1984",
+            "id": "1701267",
+            "profession": "导演"
+          }
+        ]
+      },
+      "availableCinemaCount": "113",
+      "availableScheduleCount": "1200",
+      "availableTodayScheduleCount": "1",
+      "backgroundPicture": "i4/TB1w4nTyEz1gK0jSZLeXXb9kVXa_.jpg",
+      "boxOfficeData": {
+        "detailUrl": "https://dengtapro.taopiaopiao.com/show-detail.html?hideTitlebar=true&transparentStatusBar=true&showId=1335505",
+        "icon": "TB1K_j.BrY1gK0jSZTEXXXDQVXa-60-60.png",
+        "sort": "4",
+        "totalBoxOffice": "78644205",
+        "weeklyBoxOffice": "49854876"
+      },
+      "commentHide": "false",
+      "containRankList": [
+        {
+          "darkRankListIconUrl": "TB1e23AvHY1gK0jSZTEXXXDQVXa-33-41.png",
+          "rank": "2",
+          "rankListH5Url": "https://m.taopiaopiao.com/tickets/movie/pages/rank-list/index.html?ranktype=14&needCity=YES&__webview_options__=allowsBounceVertical%3DNO%26canPullDown%3DNO",
+          "rankListIconUrl": "TB1UEZrvHr1gK0jSZR0XXbP8XXa-33-41.png",
+          "rankType": "14",
+          "showId": "1335505",
+          "title": "预告片热播榜第2名",
+          "titleForLocalLife": "预告片热播榜No.2"
+        }
+      ],
+      "country": "中国大陆",
+      "derivationList": [
+        
+      ],
+      "description": "著名集团董事长王世聪惨死家中，负责此案的检察官梁文超（张震 饰）与妻子刑警阿爆（张钧甯 饰）在调查中得知：死者的儿子王天佑(林晖闵 饰)，年轻的新婚妻子李燕（孙安可 饰），多年合伙人万宇凡（李铭顺 饰），甚至死去的前妻唐素贞（张柏嘉 饰），每个人之间都有着错综复杂的关联。阿爆更是发现隐藏在案件背后的惊人秘密……",
+      "director": "程伟豪",
+      "duration": "124",
+      "fantastic": "0",
+      "features": {
+        "openCountry": "中国大陆",
+        "enableCustomShowTag": "1",
+        "customShowTag": "高能剧本多次反转",
+        "soonFlag": "{\"soonFlagName\":\"\",\"startDate\":\"2021-01-08 17:43:12\",\"endDate\":\"2021-01-14 17:43:14\",\"modifyTime\":1610697678204,\"soonFlagSort\":9}",
+        "year": "2021",
+        "topVideoPoster": "i2/O1CN01gmHT2K21Z8JzTOCPh_!!6000000006998-0-alipicbeacon.jpg",
+        "openTime": "2021-01-15",
+        "isReOpen": "0",
+        "configShowCode": "001705592020,001105592020"
+      },
+      "fromSearch": "false",
+      "h5UrlMap": {
+        "commentList": "https://m.taopiaopiao.com/tickets/dianying/pages/show-comments/index.html?showId=1335505&showName=缉魂&__webview_options__=showOptionMenu%3DNO",
+        "userScoreDetail": "https://m.taopiaopiao.com/tickets/movie/pages/user-score/index.html?showId=1335505",
+        "trailerList": "https://m.taopiaopiao.com/tickets/movie/pages/show-trailers/index.html?showId=1335505&__webview_options__=showOptionMenu%3DNO",
+        "artisteDetail": "https://m.taopiaopiao.com/tickets/movie/pages/artist/detail.html?__webview_options__=showOptionMenu%3DNO",
+        "artisteList": "https://m.taopiaopiao.com/tickets/movie/pages/artist/list.html?showId=1335505&showName=缉魂&__webview_options__=showOptionMenu%3DNO",
+        "watchedShow": "https://m.taopiaopiao.com/tickets/movie/pages/movie-comment/my-comment.html?__webview_options__=showOptionMenu%3DNO",
+        "showComment": "https://m.taopiaopiao.com/tickets/mymovie/pages/critique/index.html?showId=1335505&showName=缉魂&__webview_options__=showOptionMenu%3DNO",
+        "commentDetail": "https://m.taopiaopiao.com/tickets/dianying/pages/show-replies/index.html?__webview_options__=showOptionMenu%3DNO",
+        "wantedShow": "https://m.taopiaopiao.com/tickets/movie/pages/my-interest/index.html?__webview_options__=showOptionMenu%3DNO",
+        "rightsDetail": "https://m.taopiaopiao.com/tickets/dianying/pages/alfheim/content.html?id=3224&interact=no&hidetitle=yes",
+        "rightYouku": "https://m.taopiaopiao.com/app/moviemember/pages/member/rights-detail-youku.html"
+      },
+      "id": "1335505",
+      "imdbid": "tt13598976",
+      "isOpenChina": "true",
+      "language": "汉语普通话",
+      "leadingRole": "张震,张钧甯,孙安可",
+      "maxSeatPrice": "12200",
+      "minSeatPrice": "1980",
+      "openCountry": "中国大陆",
+      "openDay": "2021-01-15 00:00:00",
+      "openTime": "2021-01-15",
+      "orderBy": "10000",
+      "orderCount": "0",
+      "poster": "i1/O1CN01HxcNsC1VeZJUeUFWM_!!6000000002678-0-alipicbeacon.jpg",
+      "posterMeta": {
+        "height": "3721",
+        "size": "1759681",
+        "width": "2622"
+      },
+      "preScheduleRemarkCount": "0",
+      "preview": [
+        {
+          "androidPadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/4/t/1/294485159443.m3u8",
+          "androidPadV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/sd/294485159443.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ld/294485159443.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/hd/294485159443.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ud/294485159443.mp4"
+          },
+          "androidPhoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/5/t/1/294485159443.m3u8",
+          "androidPhoneV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/294485159443.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/294485159443.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/294485159443.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/294485159443.mp4"
+          },
+          "coverUrl": "i3/O1CN01RzlUJO1wnir4tvDj3_!!6000000006353-0-alipicbeacon.jpg",
+          "description": "《缉魂》发布终极预告，张震张钧甯大飙哭戏张力十足！",
+          "duration": "113",
+          "features": "{\"fromBiz\":\"true\"}",
+          "flashUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/1/t/1/294485159443.swf",
+          "gifCover": "",
+          "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/294485159443.mp4",
+          "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/294485159443.mp4",
+          "state": "6",
+          "title": "《缉魂》发布终极预告，张震张钧甯大飙哭戏张力十足！",
+          "uploadTime": "2021-01-05 21:03:17",
+          "uploaderId": "1745440806",
+          "videoId": "294485159443",
+          "videoSourceType": "0",
+          "webUrl": "<script src=\"http://api.video.taobao.com/video/getPlayerJS\"></script><script src=\"http://api.video.taobao.com/video/embedVideo?vid=294485159443&uid=1745440806&tid=1&autoplay=true\"></script>"
+        },
+        {
+          "androidPadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/4/t/1/293142854007.m3u8",
+          "androidPadV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/sd/293142854007.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ld/293142854007.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/hd/293142854007.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ud/293142854007.mp4"
+          },
+          "androidPhoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/5/t/1/293142854007.m3u8",
+          "androidPhoneV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/293142854007.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/293142854007.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/293142854007.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/293142854007.mp4"
+          },
+          "coverUrl": "i2/O1CN01TAENqc1EhujnRkK8Y_!!6000000000384-0-alipicbeacon.jpg",
+          "description": "缉魂“全城通报”线上发布会 张震张钧甯邀你全城缉魂",
+          "duration": "202",
+          "features": "{\"fromBiz\":\"true\"}",
+          "flashUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/1/t/1/293142854007.swf",
+          "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/293142854007.mp4",
+          "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/293142854007.mp4",
+          "state": "6",
+          "title": "缉魂“全城通报”线上发布会 张震张钧甯邀你全城缉魂",
+          "uploadTime": "2020-12-27 23:16:44",
+          "uploaderId": "1745440806",
+          "videoId": "293142854007",
+          "videoSourceType": "0",
+          "webUrl": "<script src=\"http://api.video.taobao.com/video/getPlayerJS\"></script><script src=\"http://api.video.taobao.com/video/embedVideo?vid=293142854007&uid=1745440806&tid=1&autoplay=true\"></script>"
+        },
+        {
+          "androidPadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/4/t/1/289619432260.m3u8",
+          "androidPadV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/sd/289619432260.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ld/289619432260.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/hd/289619432260.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ud/289619432260.mp4"
+          },
+          "androidPhoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/5/t/1/289619432260.m3u8",
+          "androidPhoneV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/289619432260.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/289619432260.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/289619432260.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/289619432260.mp4"
+          },
+          "coverUrl": "O1CN01uMoTsb1kWWaUbZbDW_!!6000000004691-0-tbvideo.jpg",
+          "description": "缉魂 预告1201",
+          "duration": "62",
+          "features": "{\"fromBiz\":\"true\"}",
+          "flashUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/1/t/1/289619432260.swf",
+          "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/289619432260.mp4",
+          "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/289619432260.mp4",
+          "state": "6",
+          "title": "张震张钧甯联手探案 犯罪悬疑片《缉魂》1月15日震撼开年",
+          "uploadTime": "2020-12-06 15:42:14",
+          "uploaderId": "1745440806",
+          "videoId": "289619432260",
+          "videoSourceType": "0",
+          "webUrl": "<script src=\"http://api.video.taobao.com/video/getPlayerJS\"></script><script src=\"http://api.video.taobao.com/video/embedVideo?vid=289619432260&uid=1745440806&tid=1&autoplay=true\"></script>"
+        },
+        {
+          "androidPadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/4/t/1/291543322037.m3u8",
+          "androidPadV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/sd/291543322037.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ld/291543322037.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/hd/291543322037.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ud/291543322037.mp4"
+          },
+          "androidPhoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/5/t/1/291543322037.m3u8",
+          "androidPhoneV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/291543322037.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/291543322037.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/291543322037.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/291543322037.mp4"
+          },
+          "coverUrl": "O1CN01qpQo8m1DH3tkSmiMh_!!6000000000190-0-tbvideo.jpg",
+          "description": "1215-第二支预告发稿版",
+          "duration": "77",
+          "features": "{\"fromBiz\":\"true\"}",
+          "flashUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/1/t/1/291543322037.swf",
+          "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/291543322037.mp4",
+          "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/291543322037.mp4",
+          "state": "6",
+          "title": "《缉魂》曝“欲望难平”版预告，张震张钧甯联手探查人心",
+          "uploadTime": "2020-12-16 11:25:58",
+          "uploaderId": "1745440806",
+          "videoId": "291543322037",
+          "videoSourceType": "0",
+          "webUrl": "<script src=\"http://api.video.taobao.com/video/getPlayerJS\"></script><script src=\"http://api.video.taobao.com/video/embedVideo?vid=291543322037&uid=1745440806&tid=1&autoplay=true\"></script>"
+        },
+        {
+          "androidPadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/4/t/1/295508135485.m3u8",
+          "androidPadV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/sd/295508135485.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ld/295508135485.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/hd/295508135485.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ud/295508135485.mp4"
+          },
+          "androidPhoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/5/t/1/295508135485.m3u8",
+          "androidPhoneV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/295508135485.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/295508135485.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/295508135485.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/295508135485.mp4"
+          },
+          "coverUrl": "O1CN012dJ4Y81U2iyPtCTIE_!!6000000002460-0-tbvideo.jpg",
+          "description": "《缉魂》曝“申辩视频”，张震张钧甯公布案件反常细节",
+          "duration": "206",
+          "features": "{\"fromBiz\":\"true\"}",
+          "flashUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/1/t/1/295508135485.swf",
+          "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/295508135485.mp4",
+          "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/295508135485.mp4",
+          "state": "6",
+          "title": "《缉魂》曝“申辩视频”，张震张钧甯公布案件反常细节",
+          "uploadTime": "2021-01-13 18:01:19",
+          "uploaderId": "1745440806",
+          "videoId": "295508135485",
+          "videoSourceType": "0",
+          "webUrl": "<script src=\"http://api.video.taobao.com/video/getPlayerJS\"></script><script src=\"http://api.video.taobao.com/video/embedVideo?vid=295508135485&uid=1745440806&tid=1&autoplay=true\"></script>"
+        },
+        {
+          "androidPadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/4/t/1/294419436327.m3u8",
+          "androidPadV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/sd/294419436327.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ld/294419436327.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/hd/294419436327.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ud/294419436327.mp4"
+          },
+          "androidPhoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/5/t/1/294419436327.m3u8",
+          "androidPhoneV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/294419436327.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/294419436327.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/294419436327.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/294419436327.mp4"
+          },
+          "coverUrl": "i3/O1CN01M4q6JW1MfBJ0Ka4iY_!!6000000001461-0-alipicbeacon.jpg",
+          "description": "悬疑犯罪电影《缉魂》口碑特辑 直击泪腺好评不断超震撼",
+          "duration": "132",
+          "features": "{\"fromBiz\":\"true\"}",
+          "flashUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/1/t/1/294419436327.swf",
+          "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/294419436327.mp4",
+          "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/294419436327.mp4",
+          "state": "6",
+          "title": "悬疑犯罪电影《缉魂》口碑特辑 直击泪腺好评不断超震撼",
+          "uploadTime": "2021-01-12 01:04:33",
+          "uploaderId": "1745440806",
+          "videoId": "294419436327",
+          "videoSourceType": "0",
+          "webUrl": "<script src=\"http://api.video.taobao.com/video/getPlayerJS\"></script><script src=\"http://api.video.taobao.com/video/embedVideo?vid=294419436327&uid=1745440806&tid=1&autoplay=true\"></script>"
+        },
+        {
+          "androidPadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/4/t/1/294237808445.m3u8",
+          "androidPadV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/sd/294237808445.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ld/294237808445.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/hd/294237808445.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ud/294237808445.mp4"
+          },
+          "androidPhoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/5/t/1/294237808445.m3u8",
+          "androidPhoneV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/294237808445.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/294237808445.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/294237808445.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/294237808445.mp4"
+          },
+          "coverUrl": "O1CN01CiceEl1aKwQHIFyuK_!!6000000003312-0-tbvideo.jpg",
+          "description": "《缉魂》特辑 张震情绪爆发太让人心疼了！",
+          "duration": "35",
+          "features": "{\"fromBiz\":\"true\"}",
+          "flashUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/1/t/1/294237808445.swf",
+          "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/294237808445.mp4",
+          "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/294237808445.mp4",
+          "state": "6",
+          "title": "《缉魂》特辑 张震情绪爆发太让人心疼了！",
+          "uploadTime": "2021-01-10 17:33:21",
+          "uploaderId": "1745440806",
+          "videoId": "294237808445",
+          "videoSourceType": "0",
+          "webUrl": "<script src=\"http://api.video.taobao.com/video/getPlayerJS\"></script><script src=\"http://api.video.taobao.com/video/embedVideo?vid=294237808445&uid=1745440806&tid=1&autoplay=true\"></script>"
+        },
+        {
+          "androidPadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/4/t/1/293753790705.m3u8",
+          "androidPadV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/sd/293753790705.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ld/293753790705.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/hd/293753790705.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ud/293753790705.mp4"
+          },
+          "androidPhoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/5/t/1/293753790705.m3u8",
+          "androidPhoneV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/293753790705.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/293753790705.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/293753790705.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/293753790705.mp4"
+          },
+          "coverUrl": "O1CN01t9VpZG1L8piL3iimF_!!6000000001255-0-tbvideo.jpg",
+          "description": "《缉魂》预售特辑  前方高帅！张震提醒大家去看电影",
+          "duration": "10",
+          "features": "{\"fromBiz\":\"true\"}",
+          "flashUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/1/t/1/293753790705.swf",
+          "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/293753790705.mp4",
+          "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/293753790705.mp4",
+          "state": "6",
+          "title": "《缉魂》预售特辑  前方高帅！张震提醒大家去看电影",
+          "uploadTime": "2021-01-02 14:55:21",
+          "uploaderId": "1745440806",
+          "videoId": "293753790705",
+          "videoSourceType": "0",
+          "webUrl": "<script src=\"http://api.video.taobao.com/video/getPlayerJS\"></script><script src=\"http://api.video.taobao.com/video/embedVideo?vid=293753790705&uid=1745440806&tid=1&autoplay=true\"></script>"
+        },
+        {
+          "androidPadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/4/t/1/292823564045.m3u8",
+          "androidPadV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/sd/292823564045.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ld/292823564045.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/hd/292823564045.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ud/292823564045.mp4"
+          },
+          "androidPhoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/5/t/1/292823564045.m3u8",
+          "androidPhoneV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/292823564045.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/292823564045.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/292823564045.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/292823564045.mp4"
+          },
+          "coverUrl": "i2/O1CN01OcU5mF1NGHNrk2MTq_!!6000000001542-0-alipicbeacon.jpg",
+          "description": "张震张钧甯电影《缉魂》制作特辑 不同视角呈现多面结局",
+          "duration": "156",
+          "features": "{\"fromBiz\":\"true\"}",
+          "flashUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/1/t/1/292823564045.swf",
+          "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/292823564045.mp4",
+          "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/292823564045.mp4",
+          "state": "6",
+          "title": "张震张钧甯电影《缉魂》制作特辑 不同视角呈现多面结局",
+          "uploadTime": "2020-12-30 09:20:32",
+          "uploaderId": "1745440806",
+          "videoId": "292823564045",
+          "videoSourceType": "0",
+          "webUrl": "<script src=\"http://api.video.taobao.com/video/getPlayerJS\"></script><script src=\"http://api.video.taobao.com/video/embedVideo?vid=292823564045&uid=1745440806&tid=1&autoplay=true\"></script>"
+        },
+        {
+          "androidPadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/4/t/1/292898639550.m3u8",
+          "androidPadV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/sd/292898639550.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ld/292898639550.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/hd/292898639550.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/7/t/1/d/ud/292898639550.mp4"
+          },
+          "androidPhoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/5/t/1/292898639550.m3u8",
+          "androidPhoneV23Url": {
+            "sd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/sd/292898639550.mp4",
+            "ld": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ld/292898639550.mp4",
+            "hd": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/292898639550.mp4",
+            "ud": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/ud/292898639550.mp4"
+          },
+          "coverUrl": "i4/O1CN01yfyd731aw2UwUqvVr_!!6000000003393-0-alipicbeacon.jpg",
+          "description": "《缉魂》特辑 全员“高能演技”，张震张钧甯互相飙戏",
+          "duration": "155",
+          "features": "{\"fromBiz\":\"true\"}",
+          "flashUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/1/t/1/292898639550.swf",
+          "ipadUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/292898639550.mp4",
+          "iphoneUrl": "http://cloud.video.taobao.com/play/u/1745440806/p/1/e/6/t/1/d/hd/292898639550.mp4",
+          "state": "6",
+          "title": "《缉魂》特辑 全员“高能演技”，张震张钧甯互相飙戏",
+          "uploadTime": "2020-12-23 23:34:49",
+          "uploaderId": "1745440806",
+          "videoId": "292898639550",
+          "videoSourceType": "0",
+          "webUrl": "<script src=\"http://api.video.taobao.com/video/getPlayerJS\"></script><script src=\"http://api.video.taobao.com/video/embedVideo?vid=292898639550&uid=1745440806&tid=1&autoplay=true\"></script>"
+        }
+      ],
+      "previewNum": "39",
+      "proScoreComment": {
+        "poster": "i1/O1CN01HxcNsC1VeZJUeUFWM_!!6000000002678-0-alipicbeacon.jpg",
+        "proCommentListUrl": "https://m.taopiaopiao.com/tickets/movie/pages/pro-score/index.html?showId=1335505",
+        "proComments": [
+          {
+            "achievement": "",
+            "avatar": "https://tva2.sinaimg.cn/crop.0.0.180.180.180/48a3c4afjw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1611154812&ssig=7bF6CUJsfO",
+            "comment": "涉及的元素太多、脑洞超大\n虽然情节上也能自圆其说\n但故事和主题的切合度、故事风格的统一\n难免力有不逮\n整体表现及格\n多一分给张震一如既往的敬业精神 ​",
+            "commentId": "4594285250347056",
+            "detailUrl": "https://m.taopiaopiao.com/tickets/movie/pages/pro-detail/index.html?showId=1335505&commentId=52513",
+            "id": "52513",
+            "identity": "《中国电影报》编辑·记者林莉丽",
+            "nickname": "于是以后",
+            "poster": "i1/O1CN01HxcNsC1VeZJUeUFWM_!!6000000002678-0-alipicbeacon.jpg",
+            "publishTime": "2021-01-17 09:20:24",
+            "score": "7.0",
+            "showId": "1335505",
+            "showName": "缉魂",
+            "sysTime": "1611157366662"
+          }
+        ],
+        "proScore": {
+          "recommendStr": "81%",
+          "score": "8.1",
+          "scoreUserCount": "114",
+          "showId": "1335505",
+          "showName": "缉魂"
+        },
+        "sysTime": "1611157366662",
+        "totalCount": "57"
+      },
+      "remark": "8.1",
+      "remarkCount": "55539",
+      "scoreAndFavor": {
+        "favorCount": "40532",
+        "favorCountDesc": "4.1万 人想看",
+        "score": {
+          "score": "8.1",
+          "scoreCount": "55539",
+          "scoreCountDesc": "5.6万 人评",
+          "scoreName": "淘票票评分",
+          "scoreType": "1"
+        },
+        "watchCount": "314212"
+      },
+      "scoreDataList": [
+        {
+          "name": "5",
+          "score": "47.6"
+        },
+        {
+          "name": "4",
+          "score": "32.2"
+        },
+        {
+          "name": "3",
+          "score": "14.8"
+        },
+        {
+          "name": "2",
+          "score": "2.8"
+        },
+        {
+          "name": "1",
+          "score": "2.6"
+        }
+      ],
+      "shareUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1335505",
+      "showCreatorDetailList": [
+        
+      ],
+      "showDataList": [
+        {
+          "name": "幕后花絮",
+          "title": "2020年4月20日，电影《缉魂》发布一组剧照，剧照中主演张震面容消瘦。为演好角色，张震减重20斤。",
+          "type": "2",
+          "url": "https://m.taopiaopiao.com/tickets/movie/pages/show-info/index.html?infoType=highlight&showId=1335505"
+        },
+        {
+          "name": "台词精选",
+          "title": "阿爆：你说的执念，对于很多人来说是需要的你知道吗。死人可以一走了之，那活下来的人呢？",
+          "type": "3",
+          "url": "https://m.taopiaopiao.com/tickets/movie/pages/show-info/index.html?infoType=dialogue&showId=1335505"
+        },
+        {
+          "name": "出品发行",
+          "title": "海宁铁幕真文化传媒有限公司",
+          "type": "5",
+          "url": "https://m.taopiaopiao.com/tickets/movie/pages/show-info/index.html?infoType=relatedCompany&showId=1335505"
+        }
+      ],
+      "showGuide": "高能剧本多次反转",
+      "showName": "缉魂",
+      "showVersion": [
+        "CINITY2D",
+        "2D"
+      ],
+      "showWatchType": "2",
+      "soldType": "NORMAL",
+      "supportType": "SEAT",
+      "tasteTipDesc": "为确保公正有效，以下评分不计入\n1.作弊评分\n2.无法识别是否真实观影评分\n3.与影片无关、包含不文明评论内容的评分",
+      "topVideoPoster": "i2/O1CN01gmHT2K21Z8JzTOCPh_!!6000000006998-0-alipicbeacon.jpg",
+      "tppAbResult": {
+        "scenarioParams": [
+          
+        ]
+      },
+      "trailer": [
+        "i3/O1CN01rTLmJr1lOZKynx4EX_!!6000000004809-0-alipicbeacon.jpg",
+        "i4/O1CN01jbRwz720CrRwGq32P_!!6000000006814-0-alipicbeacon.jpg",
+        "i1/O1CN01biBRfb1z9pCpYwRR2_!!6000000006672-0-alipicbeacon.jpg",
+        "i4/O1CN01tGEE0j27arVx0Fjlh_!!6000000007814-0-alipicbeacon.jpg",
+        "i2/O1CN01GUkE6p1km64Bxv1hZ_!!6000000004725-0-alipicbeacon.jpg",
+        "i2/O1CN015DIg3j1cSqUehM3eW_!!6000000003600-0-alipicbeacon.jpg",
+        "i3/O1CN01YUWHxG1Uw8to06Khd_!!6000000002581-0-alipicbeacon.jpg",
+        "i4/O1CN01umqzqt1NifwfqlKfX_!!6000000001604-0-alipicbeacon.jpg",
+        "i4/O1CN017lymWf1cxX1nodKDY_!!6000000003667-0-alipicbeacon.jpg",
+        "i2/O1CN01Hoefzm1Z1sK6EEsH6_!!6000000003135-0-alipicbeacon.jpg"
+      ],
+      "trailerMeta": [
+        {
+          "height": "1400",
+          "size": "103012",
+          "width": "1000"
+        },
+        {
+          "height": "1400",
+          "size": "113705",
+          "width": "1000"
+        },
+        {
+          "height": "1400",
+          "size": "115999",
+          "width": "1000"
+        },
+        {
+          "height": "1400",
+          "size": "112343",
+          "width": "1000"
+        },
+        {
+          "height": "1400",
+          "size": "109047",
+          "width": "1000"
+        },
+        {
+          "height": "1400",
+          "size": "114316",
+          "width": "1000"
+        },
+        {
+          "height": "1000",
+          "size": "148669",
+          "width": "1500"
+        },
+        {
+          "height": "1000",
+          "size": "139902",
+          "width": "1500"
+        },
+        {
+          "height": "1000",
+          "size": "135828",
+          "width": "1500"
+        },
+        {
+          "height": "667",
+          "size": "102958",
+          "width": "1000"
+        }
+      ],
+      "trailerNum": "153",
+      "type": "科幻,悬疑,犯罪",
+      "unopenScheduleCount": "0",
+      "userShowStatus": "0",
+      "videoList": [
+        {
+          "author": "缉魂",
+          "avatar": "i4/6000000003921/O1CN01oWEwCT1eprcwk4ujY_!!6000000003921-0-tppimgupload.jpg",
+          "commentCount": "0",
+          "coverUrl": "i3/O1CN01RzlUJO1wnir4tvDj3_!!6000000006353-0-alipicbeacon.jpg",
+          "duration": "113",
+          "extId": "PREVIEW_85644",
+          "favorCount": "0",
+          "feedId": "4288980",
+          "feedStatus": "2",
+          "hasRight": "false",
+          "id": "1869971",
+          "innerType": "6",
+          "isVerticalVideo": "0",
+          "mediaId": "219191",
+          "onlyForDevice": "false",
+          "ossCoverUrl": "http://taobaodianying.alicdn.com/img/202101/1611114009470283092.jpg",
+          "playCount": "1966617",
+          "playSize": {
+            "sd": "4953111",
+            "ld": "3133305",
+            "hd": "8778472",
+            "ud": "15680157"
+          },
+          "playUrl": {
+            "sd": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/sd/e/6/t/1/294485159443.mp4",
+            "ld": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/ld/e/6/t/1/294485159443.mp4",
+            "hd": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/hd/e/6/t/1/294485159443.mp4",
+            "ud": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/ud/e/6/t/1/294485159443.mp4"
+          },
+          "previewOfficial": "true",
+          "priority": "1",
+          "shareUrl": "https://m.taopiaopiao.com/tickets/dianying/pages/mini-video/index.html?videoId=1869971&type=8&tbVideoId=294485159443",
+          "showDetailTag": "预告片",
+          "showId": "1335505",
+          "tbVideoId": "294485159443",
+          "title": "《缉魂》发布终极预告，张震张钧甯大飙哭戏张力十足！",
+          "verticalVideo": "false",
+          "videoSourceCode": "1",
+          "videoType": "1",
+          "webpCoverUrl": "http://taobaodianying.alicdn.com/img/202101/160989486650126909.webp",
+          "youkuPlaySize": {
+            "sd": "8323059",
+            "ld": "4740816",
+            "hd": "15464255",
+            "ud": "34122987"
+          },
+          "youkuVid": "XNTA0NTYyOTQ1Mg=="
+        },
+        {
+          "author": "星映话",
+          "avatar": "i1/TB1QZaBSpP7gK0jSZFjXXc5aXXa_.jpg",
+          "commentCount": "0",
+          "coverUrl": "i1/6000000005443/O1CN013sWWKV1q4wRUxHFj0_!!6000000005443-2-tppimgupload.png",
+          "duration": "665",
+          "favorCount": "0",
+          "feedId": "4295918",
+          "feedStatus": "2",
+          "hasRight": "false",
+          "id": "1877551",
+          "innerType": "4",
+          "isVerticalVideo": "0",
+          "mediaId": "64705",
+          "onlyForDevice": "false",
+          "ossCoverUrl": "http://taobaodianying.alicdn.com/img/202101/1610808319752507070.jpg",
+          "playCount": "203593",
+          "playSize": {
+            "sd": "25655917",
+            "ld": "16759441",
+            "hd": "44828661",
+            "ud": "89867291"
+          },
+          "playUrl": {
+            "sd": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/sd/e/6/t/1/294982540157.mp4",
+            "ld": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/ld/e/6/t/1/294982540157.mp4",
+            "hd": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/hd/e/6/t/1/294982540157.mp4",
+            "ud": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/ud/e/6/t/1/294982540157.mp4"
+          },
+          "previewOfficial": "false",
+          "priority": "1",
+          "shareUrl": "https://m.taopiaopiao.com/tickets/dianying/pages/mini-video/index.html?videoId=1877551&type=8&tbVideoId=294982540157",
+          "showDetailTag": "特别推荐",
+          "showId": "1335505",
+          "tbVideoId": "294982540157",
+          "title": "专访张震张钧甯：不看到最后一秒，猜不到结局！",
+          "verticalVideo": "false",
+          "videoType": "1",
+          "webpCoverUrl": "http://taobaodianying.alicdn.com/img/202101/161079710199595095.webp",
+          "youkuPlaySize": {
+            "sd": "44896542",
+            "ld": "25100624",
+            "hd": "86145974",
+            "ud": "196991568"
+          },
+          "youkuVid": "XNTA2NjU3MjA5Ng=="
+        },
+        {
+          "author": "缉魂",
+          "avatar": "i4/6000000005612/O1CN01SppciH1rKLMdtNNv9_!!6000000005612-0-tppimgupload.jpg",
+          "commentCount": "0",
+          "coverUrl": "i2/O1CN01TAENqc1EhujnRkK8Y_!!6000000000384-0-alipicbeacon.jpg",
+          "duration": "202",
+          "extId": "PREVIEW_85488",
+          "favorCount": "0",
+          "feedId": "4286999",
+          "feedStatus": "2",
+          "hasRight": "false",
+          "id": "1867057",
+          "innerType": "6",
+          "isVerticalVideo": "0",
+          "mediaId": "219191",
+          "onlyForDevice": "false",
+          "ossCoverUrl": "http://taobaodianying.alicdn.com/img/202101/1609902066908705699.jpg",
+          "playCount": "158817",
+          "playSize": {
+            "sd": "7299909",
+            "ld": "4637916",
+            "hd": "13067174",
+            "ud": "25237177"
+          },
+          "playUrl": {
+            "sd": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/sd/e/6/t/1/293142854007.mp4",
+            "ld": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/ld/e/6/t/1/293142854007.mp4",
+            "hd": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/hd/e/6/t/1/293142854007.mp4",
+            "ud": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/ud/e/6/t/1/293142854007.mp4"
+          },
+          "previewOfficial": "true",
+          "priority": "2",
+          "shareUrl": "https://m.taopiaopiao.com/tickets/dianying/pages/mini-video/index.html?videoId=1867057&type=8&tbVideoId=293142854007",
+          "showDetailTag": "预告片",
+          "showId": "1335505",
+          "tbVideoId": "293142854007",
+          "title": "缉魂“全城通报”线上发布会 张震张钧甯邀你全城缉魂",
+          "verticalVideo": "false",
+          "videoSourceCode": "1",
+          "videoType": "1",
+          "webpCoverUrl": "http://taobaodianying.alicdn.com/img/202012/1609117265686696465.webp",
+          "youkuPlaySize": {
+            "sd": "14549098",
+            "ld": "7822349",
+            "hd": "28582099",
+            "ud": "72324012"
+          },
+          "youkuVid": "XNTAyOTgxODAyOA=="
+        },
+        {
+          "author": "缉魂",
+          "avatar": "i4/6000000005612/O1CN01SppciH1rKLMdtNNv9_!!6000000005612-0-tppimgupload.jpg",
+          "commentCount": "0",
+          "coverUrl": "O1CN01qpQo8m1DH3tkSmiMh_!!6000000000190-0-tbvideo.jpg",
+          "duration": "77",
+          "extId": "PREVIEW_85301",
+          "favorCount": "0",
+          "feedId": "4280598",
+          "feedStatus": "2",
+          "hasRight": "false",
+          "id": "1860074",
+          "innerType": "6",
+          "isVerticalVideo": "0",
+          "mediaId": "219191",
+          "onlyForDevice": "false",
+          "ossCoverUrl": "http://taobaodianying.alicdn.com/img/202012/1608113765595824852.jpg",
+          "playCount": "24647",
+          "playSize": {
+            "sd": "3966910",
+            "ld": "2456966",
+            "hd": "7022399",
+            "ud": "13025064"
+          },
+          "playUrl": {
+            "sd": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/sd/e/6/t/1/291543322037.mp4",
+            "ld": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/ld/e/6/t/1/291543322037.mp4",
+            "hd": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/hd/e/6/t/1/291543322037.mp4",
+            "ud": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/ud/e/6/t/1/291543322037.mp4"
+          },
+          "previewOfficial": "true",
+          "priority": "1",
+          "shareUrl": "https://m.taopiaopiao.com/tickets/dianying/pages/mini-video/index.html?videoId=1860074&type=8&tbVideoId=291543322037",
+          "showDetailTag": "预告片",
+          "showId": "1335505",
+          "tbVideoId": "291543322037",
+          "title": "《缉魂》曝“欲望难平”版预告，张震张钧甯联手探查人心",
+          "verticalVideo": "false",
+          "videoSourceCode": "1",
+          "videoType": "1",
+          "webpCoverUrl": "http://taobaodianying.alicdn.com/img/202012/1608089466001355514.webp",
+          "youkuPlaySize": {
+            "sd": "6663957",
+            "ld": "3732300",
+            "hd": "12368537",
+            "ud": "26797539"
+          },
+          "youkuVid": "XNTAxMDAxODc4OA=="
+        },
+        {
+          "author": "缉魂",
+          "avatar": "i4/6000000005612/O1CN01SppciH1rKLMdtNNv9_!!6000000005612-0-tppimgupload.jpg",
+          "commentCount": "0",
+          "coverUrl": "O1CN01uMoTsb1kWWaUbZbDW_!!6000000004691-0-tbvideo.jpg",
+          "duration": "62",
+          "extId": "PREVIEW_85127",
+          "favorCount": "0",
+          "feedId": "4264154",
+          "feedStatus": "2",
+          "hasRight": "false",
+          "id": "1843716",
+          "innerType": "6",
+          "isVerticalVideo": "0",
+          "mediaId": "219191",
+          "onlyForDevice": "false",
+          "ossCoverUrl": "http://taobaodianying.alicdn.com/img/202012/1609120866140618585.jpg",
+          "playCount": "21911",
+          "playSize": {
+            "sd": "3152006",
+            "ld": "1875533",
+            "hd": "5948252",
+            "ud": "11120150"
+          },
+          "playUrl": {
+            "sd": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/sd/e/6/t/1/289619432260.mp4",
+            "ld": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/ld/e/6/t/1/289619432260.mp4",
+            "hd": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/hd/e/6/t/1/289619432260.mp4",
+            "ud": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/ud/e/6/t/1/289619432260.mp4"
+          },
+          "previewOfficial": "true",
+          "priority": "3",
+          "shareUrl": "https://m.taopiaopiao.com/tickets/dianying/pages/mini-video/index.html?videoId=1843716&type=8&tbVideoId=289619432260",
+          "showDetailTag": "预告片",
+          "showId": "1335505",
+          "tbVideoId": "289619432260",
+          "title": "张震张钧甯联手探案 犯罪悬疑片《缉魂》1月15日震撼开年",
+          "verticalVideo": "false",
+          "videoSourceCode": "1",
+          "videoType": "1",
+          "webpCoverUrl": "http://taobaodianying.alicdn.com/img/202012/1607240765681125110.webp",
+          "youkuPlaySize": {
+            "sd": "5098150",
+            "ld": "2773893",
+            "hd": "9713978",
+            "ud": "21414086"
+          },
+          "youkuVid": "XNDk5NjEyOTk4OA=="
+        },
+        {
+          "author": "缉魂",
+          "avatar": "i4/6000000005612/O1CN01SppciH1rKLMdtNNv9_!!6000000005612-0-tppimgupload.jpg",
+          "commentCount": "0",
+          "coverUrl": "O1CN01W4cgNP1QC6cAeM4lO_!!6000000001939-0-tbvideo.jpg",
+          "duration": "24",
+          "extId": "PREVIEW_85141",
+          "favorCount": "0",
+          "feedId": "4264337",
+          "feedStatus": "2",
+          "hasRight": "false",
+          "id": "1843856",
+          "innerType": "6",
+          "isVerticalVideo": "1",
+          "mediaId": "219191",
+          "onlyForDevice": "false",
+          "ossCoverUrl": "http://taobaodianying.alicdn.com/img/202012/1607336603933980155.jpg",
+          "playCount": "13482",
+          "playSize": {
+            "sd": "1673263",
+            "ld": "969182",
+            "hd": "3330310",
+            "ud": "6533998"
+          },
+          "playUrl": {
+            "sd": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/sd/e/6/t/1/290049601860.mp4",
+            "ld": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/ld/e/6/t/1/290049601860.mp4",
+            "hd": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/hd/e/6/t/1/290049601860.mp4",
+            "ud": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/ud/e/6/t/1/290049601860.mp4"
+          },
+          "previewOfficial": "true",
+          "priority": "99",
+          "shareUrl": "https://m.taopiaopiao.com/tickets/dianying/pages/mini-video/index.html?videoId=1843856&type=8&tbVideoId=290049601860",
+          "showDetailTag": "花絮",
+          "showId": "1335505",
+          "tbVideoId": "290049601860",
+          "title": "《缉魂》花絮 帅的人没什么造型驾驭不了",
+          "verticalVideo": "true",
+          "videoSourceCode": "1",
+          "videoType": "1",
+          "webpCoverUrl": "http://taobaodianying.alicdn.com/img/202012/1607324466352499517.webp",
+          "youkuPlaySize": {
+            "sd": "3145091",
+            "ld": "1599545",
+            "hd": "6248092",
+            "ud": "12856758"
+          },
+          "youkuVid": "XNDk5NzQxMjg2MA=="
+        },
+        {
+          "author": "缉魂",
+          "avatar": "i4/6000000003921/O1CN01oWEwCT1eprcwk4ujY_!!6000000003921-0-tppimgupload.jpg",
+          "commentCount": "0",
+          "coverUrl": "O1CN012dJ4Y81U2iyPtCTIE_!!6000000002460-0-tbvideo.jpg",
+          "duration": "206",
+          "extId": "PREVIEW_85767",
+          "favorCount": "0",
+          "feedId": "4294927",
+          "feedStatus": "2",
+          "hasRight": "false",
+          "id": "1872526",
+          "innerType": "6",
+          "isVerticalVideo": "0",
+          "mediaId": "219191",
+          "onlyForDevice": "false",
+          "ossCoverUrl": "http://taobaodianying.alicdn.com/img/202101/1610589753300912610.jpg",
+          "playCount": "7461",
+          "playSize": {
+            "sd": "8199422",
+            "ld": "5100600",
+            "hd": "14501949",
+            "ud": "26108158"
+          },
+          "playUrl": {
+            "sd": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/sd/e/6/t/1/295508135485.mp4",
+            "ld": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/ld/e/6/t/1/295508135485.mp4",
+            "hd": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/hd/e/6/t/1/295508135485.mp4",
+            "ud": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/ud/e/6/t/1/295508135485.mp4"
+          },
+          "previewOfficial": "true",
+          "priority": "99",
+          "shareUrl": "https://m.taopiaopiao.com/tickets/dianying/pages/mini-video/index.html?videoId=1872526&type=8&tbVideoId=295508135485",
+          "showDetailTag": "特辑",
+          "showId": "1335505",
+          "tbVideoId": "295508135485",
+          "title": "《缉魂》曝“申辩视频”，张震张钧甯公布案件反常细节",
+          "verticalVideo": "false",
+          "videoSourceCode": "1",
+          "videoType": "1",
+          "webpCoverUrl": "http://taobaodianying.alicdn.com/img/202101/1610532965787126777.webp",
+          "youkuPlaySize": {
+            "sd": "16446097",
+            "ld": "8538197",
+            "hd": "32042238",
+            "ud": "72936507"
+          },
+          "youkuVid": "XNTA1OTY1ODkyMA=="
+        },
+        {
+          "author": "缉魂",
+          "avatar": "i4/6000000005612/O1CN01SppciH1rKLMdtNNv9_!!6000000005612-0-tppimgupload.jpg",
+          "commentCount": "0",
+          "coverUrl": "O1CN0153l1MD1lgQlg1ZVl8_!!6000000004848-0-tbvideo.jpg",
+          "duration": "13",
+          "extId": "PREVIEW_85140",
+          "favorCount": "0",
+          "feedId": "4264336",
+          "feedStatus": "2",
+          "hasRight": "false",
+          "id": "1843855",
+          "innerType": "6",
+          "isVerticalVideo": "1",
+          "mediaId": "219191",
+          "onlyForDevice": "false",
+          "ossCoverUrl": "http://taobaodianying.alicdn.com/img/202012/1607336590741766587.jpg",
+          "playCount": "7126",
+          "playSize": {
+            "sd": "836869",
+            "ld": "485990",
+            "hd": "1512813",
+            "ud": "2949239"
+          },
+          "playUrl": {
+            "sd": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/sd/e/6/t/1/290586391806.mp4",
+            "ld": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/ld/e/6/t/1/290586391806.mp4",
+            "hd": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/hd/e/6/t/1/290586391806.mp4",
+            "ud": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/ud/e/6/t/1/290586391806.mp4"
+          },
+          "previewOfficial": "true",
+          "priority": "99",
+          "shareUrl": "https://m.taopiaopiao.com/tickets/dianying/pages/mini-video/index.html?videoId=1843855&type=8&tbVideoId=290586391806",
+          "showDetailTag": "花絮",
+          "showId": "1335505",
+          "tbVideoId": "290586391806",
+          "title": "《缉魂》花絮 张震说自己光头丑",
+          "verticalVideo": "true",
+          "videoSourceCode": "1",
+          "videoType": "1",
+          "webpCoverUrl": "http://taobaodianying.alicdn.com/img/202012/1607324466041596325.webp",
+          "youkuPlaySize": {
+            "ld": "876854"
+          },
+          "youkuVid": "XNDk5NzQxMDAzNg=="
+        },
+        {
+          "author": "缉魂",
+          "avatar": "i4/6000000003921/O1CN01oWEwCT1eprcwk4ujY_!!6000000003921-0-tppimgupload.jpg",
+          "commentCount": "0",
+          "coverUrl": "i3/O1CN01M4q6JW1MfBJ0Ka4iY_!!6000000001461-0-alipicbeacon.jpg",
+          "duration": "132",
+          "extId": "PREVIEW_85743",
+          "favorCount": "0",
+          "feedId": "4292596",
+          "feedStatus": "2",
+          "hasRight": "false",
+          "id": "1873237",
+          "innerType": "6",
+          "isVerticalVideo": "0",
+          "mediaId": "219191",
+          "onlyForDevice": "false",
+          "ossCoverUrl": "http://taobaodianying.alicdn.com/img/202101/1610417120362980615.jpg",
+          "playCount": "6053",
+          "playSize": {
+            "sd": "8168525",
+            "ld": "4767866",
+            "hd": "15702293",
+            "ud": "33120793"
+          },
+          "playUrl": {
+            "sd": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/sd/e/6/t/1/294419436327.mp4",
+            "ld": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/ld/e/6/t/1/294419436327.mp4",
+            "hd": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/hd/e/6/t/1/294419436327.mp4",
+            "ud": "https://cloud.video.taobao.com/play/u/1745440806/p/1/d/ud/e/6/t/1/294419436327.mp4"
+          },
+          "previewOfficial": "true",
+          "priority": "3",
+          "shareUrl": "https://m.taopiaopiao.com/tickets/dianying/pages/mini-video/index.html?videoId=1873237&type=8&tbVideoId=294419436327",
+          "showDetailTag": "特辑",
+          "showId": "1335505",
+          "tbVideoId": "294419436327",
+          "title": "悬疑犯罪电影《缉魂》口碑特辑 直击泪腺好评不断超震撼",
+          "verticalVideo": "false",
+          "videoSourceCode": "1",
+          "videoType": "1",
+          "webpCoverUrl": "http://taobaodianying.alicdn.com/img/202101/1610411465976763298.webp",
+          "youkuPlaySize": {
+            "sd": "13491749",
+            "ld": "6991485",
+            "hd": "25799651",
+            "ud": "58436500"
+          },
+          "youkuVid": "XNTA1NjUzNzEyNA=="
+        },
+        {
+          "author": "马乞儿电影_YKSTAR",
+          "avatar": "i4/6000000001678/O1CN011OGZFidPWvPU1aC_!!6000000001678-0-tppimgupload.jpg",
+          "commentCount": "0",
+          "coverUrl": "i2/6000000005336/O1CN011pHw3xTz1rGQThP_!!6000000005336-0-tppimgupload.jpg",
+          "extId": "YOUKU_1264951655",
+          "favorCount": "0",
+          "feedId": "4295375",
+          "feedStatus": "2",
+          "hasRight": "false",
+          "id": "1876328",
+          "innerType": "4",
+          "isVerticalVideo": "0",
+          "mediaId": "220523",
+          "onlyForDevice": "false",
+          "ossCoverUrl": "http://taobaodianying.alicdn.com/img/202101/1610618925797283162.jpg",
+          "playCount": "4247",
+          "playSize": {
+            "sd": "19129703",
+            "ld": "10587952",
+            "hd": "34740556",
+            "ud": "78452447"
+          },
+          "playUrl": {
+            "ld": "https://dianying.taobao.com/PlayVodShow.m3u8?type=m3u8&videoId=XNTA1OTgwNjYyMA==&timestamp=1611157366672&streamType=ld&sign=c9bd216914fc3e2c1163fb7ea9867827",
+            "sd": "https://dianying.taobao.com/PlayVodShow.m3u8?type=m3u8&videoId=XNTA1OTgwNjYyMA==&timestamp=1611157366672&streamType=sd&sign=dd7df32813984d92d67890d115c07e64",
+            "hd": "https://dianying.taobao.com/PlayVodShow.m3u8?type=m3u8&videoId=XNTA1OTgwNjYyMA==&timestamp=1611157366672&streamType=hd&sign=656adc8b10018517b3d074ee8cc2456e",
+            "ud": "https://dianying.taobao.com/PlayVodShow.m3u8?type=m3u8&videoId=XNTA1OTgwNjYyMA==&timestamp=1611157366672&streamType=ud&sign=21e4949cb800c3a8d36ad09de138dda9"
+          },
+          "previewOfficial": "false",
+          "priority": "99",
+          "shareUrl": "https://m.taopiaopiao.com/tickets/dianying/pages/mini-video/index.html?videoId=1876328&type=8&tbVideoId=0",
+          "showId": "1335505",
+          "tbVideoId": "0",
+          "title": "提前预定院线片前十，年度悬疑佳作！",
+          "verticalVideo": "false",
+          "videoType": "1",
+          "youkuPlaySize": {
+            "sd": "19129703",
+            "ld": "10587952",
+            "hd": "34740556",
+            "ud": "78452447"
+          },
+          "youkuVid": "XNTA1OTgwNjYyMA=="
+        }
+      ],
+      "wantCount": "40532"
+    },
+    "timestamp": "1611157366636"
+  },
+  "ret": [
+    "SUCCESS::调用成功"
+  ],
+  "v": "5.4"
+})

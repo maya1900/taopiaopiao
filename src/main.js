@@ -3,7 +3,15 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 
+import BottomBar from "com/bottomBar";
+import Loading from "com/loading";
+
+require("./mock")
+
 Vue.config.productionTip = false
+
+Vue.component("BottomBar", BottomBar)
+Vue.component("Loading", Loading)
 
 new Vue({
   router,
