@@ -4,7 +4,7 @@
       <img :src="getPoster(vvv)" alt="" />
       <i class="i-play"></i>
     </div>
-    <div class="movie-detail">
+    <div class="movie-detail" @click="movieItem(vvv.id)">
       <h3>{{ vvv.showName }}</h3>
       <em class="mark" v-if="getMark1(vvv, 0) != ''">
         <em class="mark1">{{ getMark1(vvv, 0) }}</em>
@@ -43,6 +43,9 @@ export default {
       }else{
         return ""
       }
+    },
+    movieItem(val){
+      this.$router.push({path:"/movieDetail",query:{showid:val}})
     }
   }
 };
@@ -52,6 +55,7 @@ export default {
 .movieItem{
   padding: 4vw;
   background-color: #fff;
+  display: flex;
 }
 .movie-poster{
   display: inline-block;

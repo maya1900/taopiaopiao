@@ -1,6 +1,6 @@
 <template>
   <div>
-    movieDetail
+    空空如也~~
   </div>
 </template>
 

@@ -3,7 +3,9 @@ import Vuex from 'vuex'
 
 import { comming } from "./moduleMovie/comming";
 import { soon } from "./moduleMovie/soon";
-import { cinema} from "./moduleMovie/cinema";
+import { cinema } from "./moduleMovie/cinema";
+import { movieDetail } from "./moduleMovie/movieDetail";
+
 
 Vue.use(Vuex)
 
@@ -18,6 +20,6 @@ export default new Vuex.Store({
 
   },
   modules: {
-    comming, soon, cinema
+    comming, soon, cinema, movieDetail
   }
 })

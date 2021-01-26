@@ -18,14 +18,18 @@ export let routerList = [
     name: "Login",
     component: () => import('views/login')
   }, {
-    path: "/moiveDetail",
-    name: "MoiveDetail",
-    component: () => import('views/moiveDetail')
+    path: "/movieDetail",
+    name: "MovieDetail",
+    component: () => import('views/movieDetail')
   }, {
     path: "/user",
-    name: "Home",
+    name: "User",
     component: () => import('views/user')
   }, {
+    path: "/noData",
+    name: "NoData",
+    component: () => import('views/noData')
+  },{
     path: "/",
     redirect:"/home"
   },{

@@ -15,6 +15,7 @@ export default {
     width: 100%;
     /* height: 80vh; */
     position: relative;
+    z-index: 100;
   }
 
   img{
