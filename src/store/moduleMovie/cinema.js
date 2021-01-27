@@ -10,13 +10,16 @@ export const cinema = {
       payload.cinemas.forEach(element => {
         state.cinemaList.push(element)
       });
+    },
+    clearCinemaArr(state){
+      state.cinemaList = []
     }
   },
   actions:{
     getCinema(context,payload){
       setTimeout(() => {
         GET_MOVIE_LIST("/data/cinemalist/" + payload, "get").then((ok) => {
-          console.log(ok.data)
+          // console.log(ok.data)
           context.commit("getCinemaList", ok.data)
         })
       }, 10);

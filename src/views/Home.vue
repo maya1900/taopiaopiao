@@ -57,6 +57,13 @@ export default {
     this.$store.dispatch("getHotList",1)
     this.$store.dispatch("getSoonList",1)
   },
+  beforeRouteEnter(to,from,next){
+    //做一个操作,每次进入home就让moviearr的数据清空
+    //beforeRouteEnter不能通过this访问组件实例，但是可以通过 vm 访问组件实例
+    next(vm=>{
+      vm.$store.commit("clearMovieArr")
+    })
+  }
 }
 </script>
 

@@ -200,7 +200,7 @@
 </template>
 
 <script>
-import { mapState, mapActions } from "vuex";
+import { mapState, mapActions, mapMutations } from "vuex";
 import LineScore from "com/lineScore";
 import Artist from "com/artist";
 import CommentItem from "com/commentItem";
@@ -217,6 +217,7 @@ export default {
       "getMovieComment",
       "getMovieCommentOther",
     ]),
+    ...mapMutations("movieDetail",["clearMovieObj"]),
     unfold() {
       this.unfol = !this.unfol;
     },
@@ -283,6 +284,11 @@ export default {
       this.left = "305px"
         
     },
+  },
+  beforeRouteEnter(to,from,next){
+    next(vm=>{
+      vm.clearMovieObj()
+    })
   },
   mounted() {
     this.getMovieDetail(this.$route.query.showid);

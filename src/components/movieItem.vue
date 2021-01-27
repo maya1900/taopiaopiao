@@ -1,6 +1,6 @@
 <template>
   <div class="movieItem">
-    <div class="movie-poster">
+    <div class="movie-poster" @click="movieVideo(vvv.id)">
       <img :src="getPoster(vvv)" alt="" />
       <i class="i-play"></i>
     </div>
@@ -46,6 +46,9 @@ export default {
     },
     movieItem(val){
       this.$router.push({path:"/movieDetail",query:{showid:val}})
+    },
+    movieVideo(val){
+      this.$router.push({path:"/movieVideo",query:{showid:val}})
     }
   }
 };

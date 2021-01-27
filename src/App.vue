@@ -1,8 +1,8 @@
 <template>
   <div id="app">
-    <keep-alive>
+    <!-- <keep-alive> -->
       <router-view/>
-    </keep-alive>
+    <!-- </keep-alive> -->
     
   </div>
 </template>
@@ -10,7 +10,6 @@
 <style lang="scss">
   body{
     background-color: #f5f5f5;
-    margin: 0;
   }
   *{
     margin: 0;

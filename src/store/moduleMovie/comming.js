@@ -6,9 +6,16 @@ export const comming = {
   mutations:{
     gethot(state, payload) {
       payload.forEach(element => {
-        state.hotListArr.push(element)
+        // console.log("aaa")
+        if(state.hotListArr.indexOf(element) == -1){
+          state.hotListArr.push(element)
+        }
+        
       });
     },
+    clearMovieArr(state){
+      state.hotListArr=[]
+    }
   },
   actions:{
     getHotList(context,payload) {

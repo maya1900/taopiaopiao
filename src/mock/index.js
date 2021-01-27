@@ -16,3 +16,9 @@ Mock.mock("/data/comment_other/showid=1337617","get",require("./data/giveyou_oth
 Mock.mock("/data/movie/showid=1312811", "get", require("./data/dahongbao.json"))
 Mock.mock("/data/comment/showid=1312811", "get", require("./data/dahongbao_comment.json"))
 Mock.mock("/data/comment_other/showid=1312811", "get", require("./data/dahongbao_other.json"))
+
+Mock.mock("/data/video/showid=1337617","get",require("./data/giveyou_getvideo.json"))
+Mock.mock("/data/video_comment/showid=1337617","get",require("./data/giveyou_video_comment.json"))
+
+Mock.mock("/data/video/showid=1312811", "get", require("./data/dahongbao_getvideo.json"))
+Mock.mock("/data/video_comment/showid=1312811", "get", require("./data/dahongbao_video_comment.json"))

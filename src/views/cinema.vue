@@ -17,7 +17,7 @@
 </template>
 
 <script>
-import { mapState, mapActions } from "vuex";
+import { mapState, mapActions,mapMutations } from "vuex";
 import CinemaTopBar from "com/cinemaTopBar";
 import CinemaList from "com/cinemaList";
 export default {
@@ -30,6 +30,7 @@ export default {
   methods: {
     //将this.getCinema()映射成this.$store.dispatch()
     ...mapActions("cinema", ["getCinema"]),
+    ...mapMutations("cinema",["clearCinemaArr"]),
 
     scrollBottom() {
       let clientHeight = document.documentElement.clientHeight; //文档高度
@@ -60,6 +61,12 @@ export default {
       count: 1,
     };
   },
+  beforeRouteEnter(to,from,next){
+    console.log('aaa')
+    next(vm=>{
+      vm.clearCinemaArr()
+    })
+  }
 };
 </script>
 

@@ -10,6 +10,9 @@ export const soon = {
         state.soonListArr.push(element)
       });
       console.log(state.soonListArr)
+    },
+    clearMovieArr(state) {
+      state.soonListArr = []
     }
   },
   actions:{
