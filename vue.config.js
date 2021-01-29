@@ -1,7 +1,7 @@
 module.exports = {
-  devServer:{
-    open:true,
-    port:8888,
+  devServer: {
+    open: true,
+    port: 8888,
     // proxy:{
     //   "/api":{
     //     target:"http://localhost:8888/",
@@ -13,13 +13,13 @@ module.exports = {
     //   }
     // }
   },
-  configureWebpack:{
-    resolve:{
-      alias:{
-        "com":"@/components",
-        "api":"@/api",
-        "util":"@/util",
-        "views":"@/views"
+  configureWebpack: {
+    resolve: {
+      alias: {
+        "com": "@/components",
+        "api": "@/api",
+        "util": "@/util",
+        "views": "@/views"
       }
     }
   },
@@ -47,5 +47,6 @@ module.exports = {
         ]
       }
     }
-  }
+  },
+  publicPath: "./"
 }

@@ -81,7 +81,7 @@ export default {
       .line-star-bg{
         height: 100%;
         background-size: 7px 100%;
-        background-image: url(//gw.alicdn.com/tfs/TB1HfFhhXP7gK0jSZFjXXc5aXXa-32-32.svg);
+        background-image: url(http://gw.alicdn.com/tfs/TB1HfFhhXP7gK0jSZFjXXc5aXXa-32-32.svg);
       }
       .line-star-or{
         position: absolute;
@@ -90,7 +90,7 @@ export default {
         height: 100%;
         opacity: .6;
         background-size: 7px 100%;
-        background-image: url(//gw.alicdn.com/tfs/TB1uNpehoY1gK0jSZFMXXaWcVXa-32-32.svg);
+        background-image: url(http://gw.alicdn.com/tfs/TB1uNpehoY1gK0jSZFMXXaWcVXa-32-32.svg);
       }
     }
     .line-line{

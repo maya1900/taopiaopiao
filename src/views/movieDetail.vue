@@ -1,5 +1,6 @@
 <template>
   <div class="movie">
+    <Loading v-if="getPoster==''"/>
     <div class="show-info">
       <div class="poster">
         <img :src="getPoster" alt="" />
@@ -14,7 +15,7 @@
         <p>{{ movieObj.openDay }} 在{{ movieObj.country }}上映</p>
       </div>
     </div>
-    <div class="show-remark">
+    <div class="show-remark" @click="getScoreDetail()">
       <section>
         <h4><span>淘票票口碑</span><i></i></h4>
         <div class="remark-body">
@@ -105,7 +106,7 @@
           <label>累计票房(万)</label>
         </div>
       </div>
-      <span class="desc">票房详情</span>
+      <span class="desc" @click="getBoxOfficeDesc()">票房详情</span>
     </section>
     <section class="show-comments">
       <h2>观众热评</h2>
@@ -190,7 +191,7 @@
           <p>{{ movieObj.showGuide }}</p>
           <span>{{ movieObj.showSubGuide }}</span>
         </div>
-        <div class="f2">立即购票</div>
+        <div class="f2" @click="buyTicket()">立即购票</div>
       </div>
     </div>
     <a href="javascript:;" class="retu" @click="retu()" v-show="btnFlag"
@@ -284,6 +285,15 @@ export default {
       this.left = "305px"
         
     },
+    getScoreDetail(){
+      location.href = this.movieObj.h5UrlMap.userScoreDetail
+    },
+    getBoxOfficeDesc(){
+      location.href = this.movieObj.boxOfficeData.detailUrl
+    },
+    buyTicket(){
+      this.$router.push("/login")
+    }
   },
   beforeRouteEnter(to,from,next){
     next(vm=>{
@@ -336,6 +346,7 @@ export default {
   background-color: #fff;
   padding: 20px 20px 10px;
   overflow: hidden;
+  display: flex;
   .poster {
     float: left;
     width: 97px;
@@ -404,11 +415,11 @@ export default {
           background-size: 12px 100%;
           margin: auto;
           width: 60px;
-          background-image: url(//gw.alicdn.com/tfs/TB1UoBbgeH2gK0jSZJnXXaT1FXa-32-32.svg);
+          background-image: url(http://gw.alicdn.com/tfs/TB1UoBbgeH2gK0jSZJnXXaT1FXa-32-32.svg);
           .star-rank-inner {
             height: 100%;
             background-size: 12px 100%;
-            background-image: url(//gw.alicdn.com/tfs/TB1Kto9f1L2gK0jSZPhXXahvXXa-32-32.svg);
+            background-image: url(http://gw.alicdn.com/tfs/TB1Kto9f1L2gK0jSZPhXXahvXXa-32-32.svg);
             width: 90%;
           }
         }
@@ -645,7 +656,7 @@ export default {
       i {
         display: inline-block;
         background: #fff no-repeat 50%;
-        background-image: url(//gw.alicdn.com/tfs/TB1Q2zRXuL2gK0jSZFmXXc7iXXa-120-120.png);
+        background-image: url(http://gw.alicdn.com/tfs/TB1Q2zRXuL2gK0jSZFmXXc7iXXa-120-120.png);
         background-size: cover;
         border-radius: 50%;
         height: 5.3vw;
@@ -677,7 +688,7 @@ export default {
           height: 4.26666667vw;
         }
         .i1 {
-          background-image: url(//gw.alicdn.com/tfs/TB1SeqMr1bviK0jSZFNXXaApXXa-35-36.svg);
+          background-image: url(http://gw.alicdn.com/tfs/TB1SeqMr1bviK0jSZFNXXaApXXa-35-36.svg);
         }
         .i2 {
           background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 28 28' xmlns='http://www.w3.org/2000/svg'%3E%3Ctitle%3EPage 1%3C/title%3E%3Cg fill='%23bcbcbc' fill-rule='evenodd'%3E%3Cpath d='M14.13 25.47c-1.35.016-2.673-.203-3.933-.647-.452-.16-.917-.24-1.393-.24-.222 0-.444.017-.663.052l-2.842.32c-.042.007-.083.01-.12.01-.238 0-.37-.06-.502-.265-.063-.097-.04-.39.11-.705l.336-.705c.455-.955-.008-1.957-.605-2.832-1.288-1.885-1.975-4.097-1.99-6.388C2.494 7.76 7.594 2.587 13.895 2.532h.104c6.304 0 11.45 5.128 11.467 11.433.02 6.167-5.173 11.434-11.335 11.504zM26.885 8.52c-.707-1.664-1.716-3.153-3.002-4.435-1.285-1.282-2.778-2.287-4.445-2.99C17.714.37 15.884 0 13.998 0h-.125c-3.738.034-7.24 1.512-9.855 4.166C1.406 6.82-.022 10.344 0 14.083c.015 2.802.858 5.497 2.43 7.804.35.51.4 1.172.137 1.724l-.367.768c-.34.71-.29 1.53.13 2.193.418.666 1.137 1.067 1.915 1.067.125 0 .25-.01.375-.03l3.25-.53c.16-.026.318-.037.477-.037.344 0 .684.057 1.013.174 1.49.52 3.05.786 4.638.786h.163c1.857-.023 3.667-.412 5.376-1.164 1.644-.723 3.126-1.747 4.404-3.04 1.274-1.293 2.276-2.79 2.975-4.446.726-1.72 1.092-3.535 1.085-5.392-.008-1.886-.382-3.716-1.115-5.436z'/%3E%3Crect x='13' y='11' width='2.4' height='5' rx='1.2'/%3E%3Crect x='19' y='11' width='2.4' height='5' rx='1.2'/%3E%3C/g%3E%3C/svg%3E");
@@ -812,7 +823,7 @@ export default {
           display: block;
           width: 10px;
           height: 10px;
-          background-image: url(//gw.alicdn.com/tfs/TB19dtihkY2gK0jSZFgXXc5OFXa-200-200.svg);
+          background-image: url(http://gw.alicdn.com/tfs/TB19dtihkY2gK0jSZFgXXc5OFXa-200-200.svg);
           background-size: contain;
           background-repeat: no-repeat;
         }
@@ -832,7 +843,7 @@ export default {
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: cover;
-    background-image: url("//gw.alicdn.com/tfs/TB1uGgzl7PoK1RjSZKbXXX1IXXa-106-30.svg");
+    background-image: url("http://gw.alicdn.com/tfs/TB1uGgzl7PoK1RjSZKbXXX1IXXa-106-30.svg");
   }
   &::after {
     display: block;
@@ -885,7 +896,7 @@ export default {
   right: 4vw;
   width: 10.7vw;
   height: 10.7vw;
-  background-image: url(//gw.alicdn.com/tfs/TB1Edquff1TBuNjy0FjXXajyXXa-100-100.png);
+  background-image: url(http://gw.alicdn.com/tfs/TB1Edquff1TBuNjy0FjXXajyXXa-100-100.png);
   background-size: contain;
   background-position: 50%;
   text-indent: -999rem;

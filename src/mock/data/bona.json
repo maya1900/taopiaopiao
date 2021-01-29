@@ -1,0 +1,2603 @@
+﻿{
+    "announceVos": [
+      {
+        "activityTagList": [
+          {
+            "tagName": "特惠票",
+            "tagType": "4"
+          }
+        ],
+        "announceId": "13128111611849600000_13",
+        "couponPopupItemVO": {
+          "promotionItemVO": {
+            "activityList": [
+              {
+                "activityTag": "特惠",
+                "announceId": "241042_2",
+                "desc": "1、活动时间：1月26日-1月28日10:00至22:00，限量抢购。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，最多可购买2张特惠电影票。（注：同一用户定义：账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：账号实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票客服热线：0571-88157838。",
+                "firstCardOrderOnly": "false",
+                "firstCardRechargeOnly": "false",
+                "hasJoined": "false",
+                "tag": "特惠票",
+                "title": "特惠抢票，名额有限抢完即止",
+                "type": "4",
+                "url": "https://m.taopiaopiao.com/tickets/movie/pages/activity-detail/index.html?activityId=241042_2&activityType=4&from=tbmovie&spm=a2115o.8783911.0.0"
+              }
+            ]
+          }
+        },
+        "subTitle": "查看",
+        "tag": "享优惠",
+        "type": "13"
+      }
+    ],
+    "cinemaVo": {
+      "address": "雁塔区小寨西路银泰城六层",
+      "alwaysGo": "false",
+      "cinemaDetailUrl": "https://m.taopiaopiao.com/tickets/movie/pages/cinema-detail/index.html?from=ap&cinemaid=4346",
+      "cinemaId": "4346",
+      "cinemaName": "西安博纳国际影城（朱雀店）",
+      "distance": "-1.0",
+      "latitude": "34.2230054111",
+      "longitude": "108.9405178763",
+      "phoneList": [
+        "029-89350635"
+      ],
+      "scheduleCloseTime": "0",
+      "scheduleCount": "30",
+      "supportList": [
+        {
+          "code": "23",
+          "desc": "支持开场前1小时改签",
+          "name": "可改签",
+          "support": "true"
+        },
+        {
+          "code": "10",
+          "desc": "VIP",
+          "name": "VIP厅",
+          "support": "true"
+        },
+        {
+          "code": "30",
+          "desc": "艺术影厅",
+          "name": "艺术影厅",
+          "support": "true"
+        },
+        {
+          "code": "7",
+          "desc": "1.3米（含）以下儿童观看2D影片免票无座（3D需购票），每位家长限带一名儿童",
+          "name": "儿童优惠",
+          "support": "true"
+        },
+        {
+          "code": "2",
+          "desc": "免押金",
+          "name": "3D眼镜",
+          "support": "true"
+        },
+        {
+          "code": "1",
+          "desc": "停车信息:收费停车;",
+          "name": "可停车",
+          "support": "true"
+        }
+      ]
+    },
+    "mCardItemVO": {
+      "userMCardStatus": "4"
+    },
+    "noLoginTip": "登录后可查看实际能享受的价格",
+    "showScheduleMap": {
+      "100613": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "1",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "21:21",
+              "hallName": "6厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "19:40",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611834000000",
+              "scheduleId": "830437975",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 19:40:00",
+              "showVersion": "原版 2D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "154130": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "1",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "19:21",
+              "hallName": "6厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "17:45",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611827100000",
+              "scheduleId": "830437973",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 17:45:00",
+              "showVersion": "原版 3D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "231258": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "1",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "19:31",
+              "hallName": "4厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "17:00",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611824400000",
+              "scheduleId": "830437988",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 17:00:00",
+              "showVersion": "原版 3D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "535500": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "3",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "17:59",
+              "hallName": "亲子儿童VIP厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "15:45",
+              "oriPrice": "3190",
+              "scheduleCloseTime": "1611819900000",
+              "scheduleId": "830437984",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 15:45:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3190",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "22:44",
+              "hallName": "亲子儿童VIP厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "20:30",
+              "oriPrice": "3190",
+              "scheduleCloseTime": "1611837000000",
+              "scheduleId": "830437979",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 20:30:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3190",
+              "zeroSchedule": "false"
+            }
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611849600000",
+          "dateDesc": "明天01-29",
+          "dateTip": "明天 01-29",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "4",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "14:14",
+              "hallName": "亲子儿童VIP厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "12:00",
+              "oriPrice": "3190",
+              "scheduleCloseTime": "1611892800000",
+              "scheduleId": "830440066",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 12:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3190",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "16:54",
+              "hallName": "亲子儿童VIP厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "14:40",
+              "oriPrice": "3190",
+              "scheduleCloseTime": "1611902400000",
+              "scheduleId": "830440065",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 14:40:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3190",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "19:29",
+              "hallName": "亲子儿童VIP厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "17:15",
+              "oriPrice": "3190",
+              "scheduleCloseTime": "1611911700000",
+              "scheduleId": "830440068",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 17:15:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3190",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "22:04",
+              "hallName": "亲子儿童VIP厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "19:50",
+              "oriPrice": "3190",
+              "scheduleCloseTime": "1611921000000",
+              "scheduleId": "830440067",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 19:50:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3190",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "538681": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "0",
+          "scheduleVos": [
+            
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611849600000",
+          "dateDesc": "明天01-29",
+          "dateTip": "明天 01-29",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "3",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "14:31",
+              "hallName": "3厅（激光厅）",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "12:40",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611895200000",
+              "scheduleId": "830440047",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 12:40:00",
+              "showVersion": "原版 2D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "16:41",
+              "hallName": "3厅（激光厅）",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "14:50",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611903000000",
+              "scheduleId": "830440052",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 14:50:00",
+              "showVersion": "原版 2D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "18:51",
+              "hallName": "3厅（激光厅）",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "17:00",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611910800000",
+              "scheduleId": "830440046",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 17:00:00",
+              "showVersion": "原版 2D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1275255": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "5",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "16:21",
+              "hallName": "2厅ALPD 激光高亮拆弹专家",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "14:20",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611814800000",
+              "scheduleId": "830437982",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 14:20:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "18:41",
+              "hallName": "2厅ALPD 激光高亮拆弹专家",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "16:40",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611823200000",
+              "scheduleId": "830437989",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 16:40:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "21:01",
+              "hallName": "2厅ALPD 激光高亮拆弹专家",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "19:00",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611831600000",
+              "scheduleId": "830437977",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 19:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "23:21",
+              "hallName": "2厅ALPD 激光高亮拆弹专家",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "21:20",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611840000000",
+              "scheduleId": "830437970",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 21:20:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            }
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611849600000",
+          "dateDesc": "明天01-29",
+          "dateTip": "明天 01-29",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "3",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "13:16",
+              "hallName": "2厅ALPD 激光高亮拆弹专家",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "11:15",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611890100000",
+              "scheduleId": "830440054",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 11:15:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "15:41",
+              "hallName": "2厅ALPD 激光高亮拆弹专家",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "13:40",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611898800000",
+              "scheduleId": "830440048",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 13:40:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "18:01",
+              "hallName": "2厅ALPD 激光高亮拆弹专家",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "16:00",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611907200000",
+              "scheduleId": "830440049",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 16:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1304040": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "1",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "20:07",
+              "hallName": "亲子儿童VIP厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "18:25",
+              "oriPrice": "3190",
+              "scheduleCloseTime": "1611829500000",
+              "scheduleId": "830437972",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 18:25:00",
+              "showVersion": "日语 2D",
+              "tradePrice": "3190",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1306191": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "0",
+          "scheduleVos": [
+            
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611849600000",
+          "dateDesc": "明天01-29",
+          "dateTip": "明天 01-29",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "4",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "12:25",
+              "hallName": "1厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "10:50",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611888600000",
+              "scheduleId": "830440053",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 10:50:00",
+              "showVersion": "日语 2D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "16:45",
+              "hallName": "1厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "15:10",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611904200000",
+              "scheduleId": "830440045",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 15:10:00",
+              "showVersion": "日语 2D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "18:40",
+              "hallName": "1厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "17:05",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611911100000",
+              "scheduleId": "830440051",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 17:05:00",
+              "showVersion": "日语 2D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "23:00",
+              "hallName": "1厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "21:25",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611926700000",
+              "scheduleId": "830440050",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 21:25:00",
+              "showVersion": "日语 2D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1312811": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "4",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "17:12",
+              "hallName": "3厅（激光厅）",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "15:10",
+              "oriPrice": "3490",
+              "scheduleCloseTime": "1611817800000",
+              "scheduleId": "830437986",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 15:10:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3490",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "19:42",
+              "hallName": "3厅（激光厅）",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "17:40",
+              "oriPrice": "3490",
+              "scheduleCloseTime": "1611826800000",
+              "scheduleId": "830437987",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 17:40:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3490",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "23:37",
+              "hallName": "1厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "21:35",
+              "oriPrice": "3490",
+              "scheduleCloseTime": "1611840900000",
+              "scheduleId": "830437969",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 21:35:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3490",
+              "zeroSchedule": "false"
+            }
+          ]
+        },
+        {
+          "activityTag": "惠",
+          "announceIds": [
+            "13128111611849600000_13"
+          ],
+          "date": "1611849600000",
+          "dateDesc": "明天01-29",
+          "dateTip": "明天 01-29",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "2",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "14:47",
+              "hallName": "1厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "12:45",
+              "oriPrice": "3490",
+              "scheduleCloseTime": "1611895500000",
+              "scheduleId": "830440069",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 12:45:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3490",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "21:02",
+              "hallName": "1厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥34.9",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥5.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "19:00",
+              "oriPrice": "3490",
+              "scheduleCloseTime": "1611918000000",
+              "scheduleId": "830440071",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 19:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "2980",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1318411": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "1",
+          "scheduleVos": [
+            
+          ]
+        }
+      ],
+      "1324785": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "3",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "16:41",
+              "hallName": "4厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "15:00",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611817200000",
+              "scheduleId": "830437981",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 15:00:00",
+              "showVersion": "原版 3D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "21:31",
+              "hallName": "4厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "19:50",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611834600000",
+              "scheduleId": "830437974",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 19:50:00",
+              "showVersion": "原版 3D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            }
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611849600000",
+          "dateDesc": "明天01-29",
+          "dateTip": "明天 01-29",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "3",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "15:11",
+              "hallName": "4厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "13:30",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611898200000",
+              "scheduleId": "830440070",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 13:30:00",
+              "showVersion": "原版 3D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "17:11",
+              "hallName": "4厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "15:30",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611905400000",
+              "scheduleId": "830440056",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 15:30:00",
+              "showVersion": "原版 3D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "21:11",
+              "hallName": "4厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "19:30",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611919800000",
+              "scheduleId": "830440055",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 19:30:00",
+              "showVersion": "原版 3D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1326044": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "2",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "17:27",
+              "hallName": "6厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "15:35",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611819300000",
+              "scheduleId": "830437985",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 15:35:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "23:32",
+              "hallName": "6厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "21:40",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611841200000",
+              "scheduleId": "830437968",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 21:40:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1335260": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "2",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "23:29",
+              "hallName": "4厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "21:50",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611841800000",
+              "scheduleId": "830437967",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 21:50:00",
+              "showVersion": "国语 3D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            }
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611849600000",
+          "dateDesc": "明天01-29",
+          "dateTip": "明天 01-29",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "2",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "19:09",
+              "hallName": "4厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "17:30",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611912600000",
+              "scheduleId": "830440062",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 17:30:00",
+              "showVersion": "国语 3D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "23:09",
+              "hallName": "4厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "21:30",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611927000000",
+              "scheduleId": "830440061",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 21:30:00",
+              "showVersion": "国语 3D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1335505": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "2",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "21:14",
+              "hallName": "1厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "19:10",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611832200000",
+              "scheduleId": "830437976",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 19:10:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1337617": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "7",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "18:18",
+              "hallName": "5厅（激光厅）",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "16:10",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611821400000",
+              "scheduleId": "830437983",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 16:10:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "20:48",
+              "hallName": "5厅（激光厅）",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "18:40",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611830400000",
+              "scheduleId": "830437971",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 18:40:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "22:13",
+              "hallName": "3厅（激光厅）",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "20:05",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611835500000",
+              "scheduleId": "830437980",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 20:05:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "23:13",
+              "hallName": "5厅（激光厅）",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "21:05",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611839100000",
+              "scheduleId": "830437978",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 21:05:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            }
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611849600000",
+          "dateDesc": "明天01-29",
+          "dateTip": "明天 01-29",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "5",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "13:28",
+              "hallName": "5厅（激光厅）",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "11:20",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611890400000",
+              "scheduleId": "830440057",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 11:20:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "15:58",
+              "hallName": "5厅（激光厅）",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "13:50",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611899400000",
+              "scheduleId": "830440042",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 13:50:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "18:28",
+              "hallName": "5厅（激光厅）",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "16:20",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611908400000",
+              "scheduleId": "830440041",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 16:20:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "21:03",
+              "hallName": "5厅（激光厅）",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "18:55",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611917700000",
+              "scheduleId": "830440044",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 18:55:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "23:28",
+              "hallName": "5厅（激光厅）",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "21:20",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611926400000",
+              "scheduleId": "830440043",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 21:20:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1337688": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "0",
+          "scheduleVos": [
+            
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611849600000",
+          "dateDesc": "明天01-29",
+          "dateTip": "明天 01-29",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "2",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "18:03",
+              "hallName": "6厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "16:25",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611908700000",
+              "scheduleId": "830440058",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 16:25:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "22:13",
+              "hallName": "6厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "20:35",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611923700000",
+              "scheduleId": "830440060",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 20:35:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1339896": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "0",
+          "scheduleVos": [
+            
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611849600000",
+          "dateDesc": "明天01-29",
+          "dateTip": "明天 01-29",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "5",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "19:40",
+              "hallName": "2厅ALPD 激光高亮拆弹专家",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "18:20",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611915600000",
+              "scheduleId": "830440038",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 18:20:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "20:30",
+              "hallName": "3厅（激光厅）",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "19:10",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611918600000",
+              "scheduleId": "830440039",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 19:10:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "21:20",
+              "hallName": "2厅ALPD 激光高亮拆弹专家",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "20:00",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611921600000",
+              "scheduleId": "830440037",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 20:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "22:10",
+              "hallName": "3厅（激光厅）",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "20:50",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611924600000",
+              "scheduleId": "830440036",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 20:50:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "23:05",
+              "hallName": "2厅ALPD 激光高亮拆弹专家",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "21:45",
+              "oriPrice": "3500",
+              "scheduleCloseTime": "1611927900000",
+              "scheduleId": "830440040",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 21:45:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3500",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1345531": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "0",
+          "scheduleVos": [
+            
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611849600000",
+          "dateDesc": "明天01-29",
+          "dateTip": "明天 01-29",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "3",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "14:02",
+              "hallName": "6厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "12:25",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611894300000",
+              "scheduleId": "830440059",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 12:25:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "16:02",
+              "hallName": "6厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "14:25",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611901500000",
+              "scheduleId": "830440063",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 14:25:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "20:07",
+              "hallName": "6厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "18:30",
+              "oriPrice": "2990",
+              "scheduleCloseTime": "1611916200000",
+              "scheduleId": "830440064",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-29 18:30:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "2990",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1347159": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1611763200000",
+          "dateDesc": "今天01-28",
+          "dateTip": "今天 01-28",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "1",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "18:40",
+              "hallName": "1厅(激光厅)",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "16:20",
+              "oriPrice": "3490",
+              "scheduleCloseTime": "1611822000000",
+              "scheduleId": "830437990",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-28 16:20:00",
+              "showVersion": "原版 2D",
+              "tradePrice": "3490",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ]
+    },
+    "showVos": [
+      {
+        "duration": "128",
+        "fantastic": "0",
+        "leadingRole": "易烊千玺,刘浩存,朱媛媛,高亚麟",
+        "openDay": "2020-12-31 18:00:00",
+        "openTime": "2020-12-31 18:00",
+        "poster": "i4/TB1v6V0g9R26e4jSZFEXXbwuXXa_.jpg",
+        "remark": "9.2",
+        "scoreAndFavor": {
+          "favorCount": "830046",
+          "favorCountDesc": "83.0万 人想看",
+          "score": {
+            "score": "9.2",
+            "scoreCount": "621861",
+            "scoreCountDesc": "62.2万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          },
+          "watchCount": "3510484"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1337617&hasbuybtn=false",
+        "showId": "1337617",
+        "showName": "送你一朵小红花",
+        "type": "剧情",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "121",
+        "fantastic": "0",
+        "leadingRole": "刘德华,刘青云,倪妮,谢君豪,姜皓文,吴卓羲,马浴柯,黄德斌,郑子诚,洪天明,袁富华,刘浩龙,凌文龙,赵永洪,蔡瀚亿,张竣杰,张扬",
+        "openDay": "2020-12-24 10:00:00",
+        "openTime": "2020-12-24 10:00",
+        "poster": "i4/TB11SA1VWL7gK0jSZFBXXXZZpXa_.jpg",
+        "remark": "9.1",
+        "scoreAndFavor": {
+          "favorCount": "679590",
+          "favorCountDesc": "68.0万 人想看",
+          "score": {
+            "score": "9.1",
+            "scoreCount": "703481",
+            "scoreCountDesc": "70.3万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          },
+          "watchCount": "3525770"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1275255&hasbuybtn=false",
+        "showId": "1275255",
+        "showName": "拆弹专家2",
+        "type": "动作,犯罪",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "134",
+        "fantastic": "0",
+        "leadingRole": "彭于晏,王彦霖,辛芷蕾,蓝盈莹,王雨甜",
+        "openDay": "2020-12-18 08:00:00",
+        "openTime": "2020-12-18 08:00",
+        "poster": "i2/O1CN01sofgJl1zBemFBMHPv_!!6000000006676-0-alipicbeacon.jpg",
+        "remark": "9.1",
+        "scoreAndFavor": {
+          "favorCount": "1040058",
+          "favorCountDesc": "104.0万 人想看",
+          "score": {
+            "score": "9.1",
+            "scoreCount": "267279",
+            "scoreCountDesc": "26.7万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          },
+          "watchCount": "1269592"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=535500&hasbuybtn=false",
+        "showId": "535500",
+        "showName": "紧急救援",
+        "type": "动作,灾难",
+        "userShowStatus": "0"
+      },
+      {
+        "activityTag": "惠",
+        "duration": "122",
+        "fantastic": "0",
+        "leadingRole": "包贝尔,克拉拉,张一鸣,贾冰,许君聪",
+        "openDay": "2021-01-22 18:00:00",
+        "openTime": "2021-01-22 18:00",
+        "poster": "i4/O1CN01B28PNg1C9RhuxxNlF_!!6000000000038-0-alipicbeacon.jpg",
+        "remark": "8.3",
+        "scoreAndFavor": {
+          "favorCount": "93179",
+          "favorCountDesc": "9.3万 人想看",
+          "score": {
+            "score": "8.3",
+            "scoreCount": "46813",
+            "scoreCountDesc": "4.7万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          },
+          "watchCount": "325307"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1312811&hasbuybtn=false",
+        "showId": "1312811",
+        "showName": "大红包",
+        "type": "喜剧,爱情",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "101",
+        "fantastic": "0",
+        "leadingRole": "杰米·福克斯,蒂娜·菲,约翰·拉岑贝格,戴维德·迪格斯",
+        "openDay": "2020-12-25 12:00:00",
+        "openTime": "2020-12-25 12:00",
+        "poster": "i3/O1CN01rZi5il1tJ5VNjCDah_!!6000000005880-0-alipicbeacon.jpg",
+        "remark": "9.2",
+        "scoreAndFavor": {
+          "favorCount": "118858",
+          "favorCountDesc": "11.9万 人想看",
+          "score": {
+            "score": "9.2",
+            "scoreCount": "236177",
+            "scoreCountDesc": "23.6万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          },
+          "watchCount": "1213182"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1324785&hasbuybtn=false",
+        "showId": "1324785",
+        "showName": "心灵奇旅",
+        "type": "动画,冒险,喜剧",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "80",
+        "fantastic": "0",
+        "leadingRole": "王吉祥,大鹏,刘陆",
+        "openDay": "2021-01-29 18:00:00",
+        "openTime": "2021-01-29 18:00",
+        "poster": "i3/O1CN01w1cKjO1aBmVVkzsQF_!!6000000003292-0-alipicbeacon.jpg",
+        "scoreAndFavor": {
+          "favorCount": "7730",
+          "favorCountDesc": "7730 人想看",
+          "score": {
+            "scoreName": "暂无评分",
+            "scoreType": "1"
+          }
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1339896&hasbuybtn=false",
+        "showId": "1339896",
+        "showName": "吉祥如意",
+        "type": "剧情,家庭",
+        "userShowStatus": "0",
+        "wantCount": "7730"
+      },
+      {
+        "duration": "95",
+        "fantastic": "0",
+        "leadingRole": "小林星兰,水树奈奈,松田飒水",
+        "openDay": "2021-01-29 00:00:00",
+        "openTime": "2021-01-29",
+        "poster": "i4/O1CN019JhK0h1ryeEW3SU3N_!!6000000005700-0-alipicbeacon.jpg",
+        "scoreAndFavor": {
+          "favorCount": "75697",
+          "favorCountDesc": "7.6万 人想看",
+          "score": {
+            "scoreName": "暂无评分",
+            "scoreType": "1"
+          }
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1306191&hasbuybtn=false",
+        "showId": "1306191",
+        "showName": "温泉屋的小老板娘",
+        "type": "动画,剧情,奇幻",
+        "userShowStatus": "0",
+        "wantCount": "75697"
+      },
+      {
+        "duration": "99",
+        "fantastic": "0",
+        "leadingRole": "成龙,牛骏峰,薇薇,苏柏丽",
+        "openDay": "2021-01-15 10:00:00",
+        "openTime": "2021-01-15 10:00",
+        "poster": "i1/O1CN012BCi5B1IjWaHs0fAp_!!6000000000929-0-alipicbeacon.jpg",
+        "remark": "8.6",
+        "scoreAndFavor": {
+          "favorCount": "51046",
+          "favorCountDesc": "5.1万 人想看",
+          "score": {
+            "score": "8.6",
+            "scoreCount": "36508",
+            "scoreCountDesc": "3.7万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          },
+          "watchCount": "231746"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1335260&hasbuybtn=false",
+        "showId": "1335260",
+        "showName": "许愿神龙",
+        "type": "动画,喜剧,奇幻",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "97",
+        "fantastic": "0",
+        "leadingRole": "王智,高晓攀,于莎莎,衣云鹤",
+        "openDay": "2021-01-29 00:00:00",
+        "openTime": "2021-01-29",
+        "poster": "i2/O1CN01sF3Tk71z8S18VRQPN_!!6000000006669-0-alipicbeacon.jpg",
+        "scoreAndFavor": {
+          "favorCount": "10763",
+          "favorCountDesc": "1.1万 人想看",
+          "score": {
+            "scoreName": "暂无评分",
+            "scoreType": "1"
+          }
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1345531&hasbuybtn=false",
+        "showId": "1345531",
+        "showName": "移情高手",
+        "type": "喜剧,爱情",
+        "userShowStatus": "0",
+        "wantCount": "10763"
+      },
+      {
+        "duration": "111",
+        "fantastic": "0",
+        "leadingRole": "杰西·艾森伯格,亚历山大·斯卡斯加德,萨尔玛·海耶克",
+        "openDay": "2021-01-29 00:00:00",
+        "openTime": "2021-01-29",
+        "poster": "i1/O1CN01ZhWbdm1lTbgiqzuze_!!6000000004820-0-alipicbeacon.jpg",
+        "scoreAndFavor": {
+          "favorCount": "2931",
+          "favorCountDesc": "2931 人想看",
+          "score": {
+            "scoreName": "暂无评分",
+            "scoreType": "1"
+          }
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=538681&hasbuybtn=false",
+        "showId": "538681",
+        "showName": "蜂鸟计划",
+        "type": "剧情",
+        "userShowStatus": "0",
+        "wantCount": "2931"
+      },
+      {
+        "duration": "112",
+        "fantastic": "0",
+        "leadingRole": "常远,李沁,沈腾,乔杉",
+        "openDay": "2020-12-31 14:00:00",
+        "openTime": "2020-12-31 14:00",
+        "poster": "i1/TB1GL0TSUz1gK0jSZLeXXb9kVXa_.jpg",
+        "remark": "8.5",
+        "scoreAndFavor": {
+          "favorCount": "323691",
+          "favorCountDesc": "32.4万 人想看",
+          "score": {
+            "score": "8.5",
+            "scoreCount": "330839",
+            "scoreCountDesc": "33.1万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          },
+          "watchCount": "2021413"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1326044&hasbuybtn=false",
+        "showId": "1326044",
+        "showName": "温暖的抱抱",
+        "type": "喜剧",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "98",
+        "fantastic": "0",
+        "leadingRole": "陶奕希,释小松,陈国坤,赵晨翔,邬佳鑫,陈秋羽",
+        "openDay": "2021-01-29 00:00:00",
+        "openTime": "2021-01-29",
+        "poster": "i4/O1CN01fLtNXP1O628tkkNbN_!!6000000001655-0-alipicbeacon.jpg",
+        "scoreAndFavor": {
+          "favorCount": "23832",
+          "favorCountDesc": "2.4万 人想看",
+          "score": {
+            "scoreName": "暂无评分",
+            "scoreType": "1"
+          }
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1337688&hasbuybtn=false",
+        "showId": "1337688",
+        "showName": "出手吧！女生",
+        "type": "奇幻",
+        "userShowStatus": "0",
+        "wantCount": "23832"
+      },
+      {
+        "duration": "124",
+        "fantastic": "0",
+        "leadingRole": "张震,张钧甯,孙安可",
+        "openDay": "2021-01-15 00:00:00",
+        "openTime": "2021-01-15",
+        "poster": "i1/O1CN01HxcNsC1VeZJUeUFWM_!!6000000002678-0-alipicbeacon.jpg",
+        "remark": "8.0",
+        "scoreAndFavor": {
+          "favorCount": "42451",
+          "favorCountDesc": "4.2万 人想看",
+          "score": {
+            "score": "8.0",
+            "scoreCount": "76763",
+            "scoreCountDesc": "7.7万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          },
+          "watchCount": "377259"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1335505&hasbuybtn=false",
+        "showId": "1335505",
+        "showName": "缉魂",
+        "type": "科幻,悬疑,犯罪",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "140",
+        "fantastic": "0",
+        "leadingRole": "克里斯蒂亚娜 ‧德‧布奥恩,本杰明·温赖特,斯§ç¹Â·ç¹çº³Â·è²å°å¾·,è©¹å§æ¯Â·è¨éç¹",
+        "openDay": "2021-01-22 00:00:00",
+        "openTime": "2021-01-22",
+        "poster": "i2/O1CN01XzvspK1UsTjIXrIrb_!!6000000002573-0-alipicbeacon.jpg",
+        "scoreAndFavor": {
+          "favorCount": "20953",
+          "favorCountDesc": "2.1ä¸ äººæ³ç",
+          "score": {
+            "scoreName": "ææ è¯å",
+            "scoreType": "1"
+          }
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1347159&hasbuybtn=false",
+        "showId": "1347159",
+        "showName": "ææ¥å®¶",
+        "type": "é³ä¹,ç±æ",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "151",
+        "fantastic": "0",
+        "leadingRole": "çå°Â·å æµ,åéæ¯Â·æ´¾æ©,åéæ¯æ±Â·é¦æ ¼,ä½©å¾·ç½Â·å¸æ¯å¡,ç½å®¾Â·æç¹,åº·å¦®Â·å°¼å°æ£®",
+        "openDay": "2020-12-18 00:00:00",
+        "openTime": "2020-12-18",
+        "poster": "i2/O1CN016VnA3e1y2fO2DrDDX_!!6000000006521-0-alipicbeacon.jpg",
+        "remark": "7.8",
+        "scoreAndFavor": {
+          "favorCount": "424823",
+          "favorCountDesc": "42.5ä¸ äººæ³ç",
+          "score": {
+            "score": "7.8",
+            "scoreCount": "147444",
+            "scoreCountDesc": "14.7ä¸ äººè¯",
+            "scoreName": "æ·ç¥¨ç¥¨è¯å",
+            "scoreType": "1"
+          },
+          "watchCount": "585501"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=231258&hasbuybtn=false",
+        "showId": "231258",
+        "showName": "ç¥å¥å¥³ä¾ 1984",
+        "type": "å¨ä½,å¥å¹»,åé©",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "96",
+        "fantastic": "0",
+        "leadingRole": "å°¼å¤ææ¯Â·å¯å¥,è¾çÂ·æ¯é,çå®Â·é·è¯ºå¹,å¯çç³Â·åºçº³",
+        "openDay": "2020-11-27 00:00:00",
+        "openTime": "2020-11-27",
+        "poster": "i4/O1CN01V7jPEM1jWEiaAi4p0_!!6000000004555-0-alipicbeacon.jpg",
+        "remark": "8.9",
+        "scoreAndFavor": {
+          "favorCount": "137206",
+          "favorCountDesc": "13.7ä¸ äººæ³ç",
+          "score": {
+            "score": "8.9",
+            "scoreCount": "170242",
+            "scoreCountDesc": "17.0ä¸ äººè¯",
+            "scoreName": "æ·ç¥¨ç¥¨è¯å",
+            "scoreType": "1"
+          },
+          "watchCount": "958826"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=154130&hasbuybtn=false",
+        "showId": "154130",
+        "showName": "ç¯çåå§äºº2",
+        "type": "å¨ç»,åå§",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "102",
+        "fantastic": "0",
+        "leadingRole": "ä¸åå½©è±,æ°¸è°·çç»,æç°éº»é,ä¸æµ¦è´µå¤§",
+        "openDay": "2021-01-22 00:00:00",
+        "openTime": "2021-01-22",
+        "poster": "i2/O1CN01O5G0eN1zidJ3kEaWz_!!6000000006748-0-alipicbeacon.jpg",
+        "remark": "8.3",
+        "scoreAndFavor": {
+          "favorCount": "14289",
+          "favorCountDesc": "1.4ä¸ äººæ³ç",
+          "score": {
+            "score": "8.3",
+            "scoreCount": "1602",
+            "scoreCountDesc": "1602 äººè¯",
+            "scoreName": "æ·ç¥¨ç¥¨è¯å",
+            "scoreType": "1"
+          },
+          "watchCount": "4483"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1304040&hasbuybtn=false",
+        "showId": "1304040",
+        "showName": "ä¸æè·³è",
+        "type": "å§æ,åå§",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "101",
+        "fantastic": "0",
+        "leadingRole": "å¥è¯æèç±,åäºæ´è¾,å±±å£æºå­,é¿å²ä¸è,å¤©æµ·ä½å¸",
+        "openDay": "2020-12-31 08:00:00",
+        "openTime": "2020-12-31 08:00",
+        "poster": "i1/O1CN01je4YJc1v50ZQGG5kv_!!6000000006120-0-alipicbeacon.jpg",
+        "remark": "9.1",
+        "scoreAndFavor": {
+          "favorCount": "109556",
+          "favorCountDesc": "11.0ä¸ äººæ³ç",
+          "score": {
+            "score": "9.1",
+            "scoreCount": "23038",
+            "scoreCountDesc": "2.3ä¸ äººè¯",
+            "scoreName": "æ·ç¥¨ç¥¨è¯å",
+            "scoreType": "1"
+          },
+          "watchCount": "108070"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=100613&hasbuybtn=false",
+        "showId": "100613",
+        "showName": "å´ä¸çæ³¢å¦",
+        "type": "å¨ç»,åé©",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "108",
+        "fantastic": "0",
+        "leadingRole": "å½­æè±,èç«è´¤,é«ç¿°æ,é­å°å",
+        "openDay": "2021-01-22 00:00:00",
+        "openTime": "2021-01-22",
+        "poster": "i1/O1CN01VhMvgI1xql6OuShhC_!!6000000006495-0-alipicbeacon.jpg",
+        "remark": "8.5",
+        "scoreAndFavor": {
+          "favorCount": "6168",
+          "favorCountDesc": "6168 äººæ³ç",
+          "score": {
+            "score": "8.5",
+            "scoreCount": "1201",
+            "scoreCountDesc": "1201 äººè¯",
+            "scoreName": "æ·ç¥¨ç¥¨è¯å",
+            "scoreType": "1"
+          },
+          "watchCount": "5158"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1318411&hasbuybtn=false",
+        "showId": "1318411",
+        "showName": "å°ä¼",
+        "type": "å§æ",
+        "userShowStatus": "0"
+      }
+    ]
+  }

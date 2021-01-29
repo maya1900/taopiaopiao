@@ -1,7 +1,7 @@
 <template>
   <div class="video">
     <div class="smartBanner">
-      <img src="//gw.alicdn.com/tfs/TB1F3PwklfH8KJjy1XbXXbLdXXa-324-102.png" alt="">
+      <img src="http://gw.alicdn.com/tfs/TB1F3PwklfH8KJjy1XbXXbLdXXa-324-102.png" alt="">
       <span>在APP内打开</span><em>下载</em>
     </div>
     <section class="videoBanner" v-if="videoObj.videos">
@@ -78,7 +78,7 @@ export default {
  computed:{
    ...mapState("movieDetail",["videoObj","videoCommentObj"]),
    getPoster(){
-     return "//gw.alicdn.com/" + this.videoObj.show.poster
+     return "http://gw.alicdn.com/" + this.videoObj.show.poster
    }
  },
  components:{
@@ -156,7 +156,7 @@ export default {
       top: 50%;
       margin-top: -31.5px;
       margin-left: -31.5px;
-      background: url(//g.alicdn.com/de/prismplayer/2.6.0/skins/default/img/play.png) no-repeat;
+      background: url(http://g.alicdn.com/de/prismplayer/2.6.0/skins/default/img/play.png) no-repeat;
       background-size: contain;
       width: 63px;
       height: 63px;
@@ -203,7 +203,7 @@ export default {
       white-space: nowrap;
       display: block;
       padding: 0 4vw;
-      flex: 1 1 auto;
+      flex: 1;
       p{
         margin-bottom: 1.1vw;
         color: #222227;
@@ -232,7 +232,7 @@ export default {
       color: #ff5456;
       border: 1px solid #ff5456;
       padding: 0 12px;
-      width: 28px;
+      width: 25px;
       height: 28px;
       line-height: 28px;
       font-size: 12px;

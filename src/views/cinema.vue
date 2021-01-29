@@ -1,7 +1,8 @@
 <template>
   <div class="cinema">
+    <Loading v-if="cinemaList == {}"/>
     <CinemaTopBar />
-    <main>
+    <main else>
       <CinemaList
         v-for="(v, i) in cinemaList"
         :key="i"
@@ -9,7 +10,7 @@
         :address="v.address"
         :support="v.supportList"
         :minprice="v.minPrice"
-        :oriprice="v.oriPrice"
+        :oriprice="v.oriPrice" @click.native="intoDetail(v.cinemaId)"
       />
     </main>
     <BottomBar />
@@ -48,10 +49,14 @@ export default {
         }
       }
     },
+
+    intoDetail(val){
+      this.$router.push({path:"/cinemaDetail",query:{cinemaid:val}})
+    }
   },
   components: {
     CinemaTopBar,
-    CinemaList,
+    CinemaList
   },
   computed: {
     ...mapState("cinema", ["cinemaList"]),
@@ -62,7 +67,7 @@ export default {
     };
   },
   beforeRouteEnter(to,from,next){
-    console.log('aaa')
+    // console.log('aaa')
     next(vm=>{
       vm.clearCinemaArr()
     })

@@ -28,7 +28,7 @@ export default {
   },
   data() {
     return {
-      name: "111",
+      name: "maya1024",
     };
   },
 };

@@ -22,6 +22,14 @@ export let routerList = [
     name: "MovieDetail",
     component: () => import('views/movieDetail')
   }, {
+    path: "/movieArtist",
+    name: "MovieArtist",
+    component: () => import('views/movieArtist')
+  }, {
+    path: "/movieTrailer",
+    name: "MovieTrailer",
+    component: () => import('views/movieTrailer')
+  },{
     path: "/movieVideo",
     name: "MovieVideo",
     component: () => import('views/movieVideo')

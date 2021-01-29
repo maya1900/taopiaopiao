@@ -7,7 +7,9 @@ export const movieDetail = {
     commentObj:{},
     commentOtObj:{},
     videoObj:{},
-    videoCommentObj:{}
+    videoCommentObj:{},
+    movieArtist:{},
+    movieTrailer:{}
   },
   mutations:{
     getMovie(state,payload){
@@ -31,6 +33,12 @@ export const movieDetail = {
     },
     getVideoComment(state,payload){
       state.videoCommentObj = payload
+    },
+    getArtist(state,payload){
+      state.movieArtist = payload
+    },
+    getTrailer(state,payload){
+      state.movieTrailer = payload
     }
   },
   actions:{
@@ -39,6 +47,9 @@ export const movieDetail = {
         GET_MOVIE_LIST("/data/movie/showid=" + id, "get").then((ok) => {
           console.log(ok.data)
           context.commit("getMovie", ok.data)
+        }).catch((err)=>{
+          console.log(err)
+          router.push("/noData")
         })
       }, 10);
     },
@@ -47,6 +58,8 @@ export const movieDetail = {
         GET_MOVIE_LIST("/data/comment/showid=" + id,"get").then((ok)=>{
           // console.log(ok.data)
           context.commit("getComment",ok.data)
+        }).catch((err)=>{
+          console.log(err)
         })
       }, 10);
     },
@@ -55,8 +68,8 @@ export const movieDetail = {
         GET_MOVIE_LIST("/data/comment_other/showid=" + id,"get").then((ok)=>{
           // console.log(ok.data)
           context.commit("getCommentOther",ok.data)
-        }).catch(()=>{
-          router.push("/noData")
+        }).catch((err)=>{
+          console.log(err)
         })
       }, 10);
     },
@@ -65,6 +78,9 @@ export const movieDetail = {
         GET_MOVIE_LIST("/data/video/showid=" + id,"get").then((ok)=>{
           // console.log(ok.data)
           context.commit("getVideo",ok.data)
+        }).catch((err) => {
+          console.log(err)
+          router.push("/noData")
         })
       }, 10);
     },
@@ -73,6 +89,28 @@ export const movieDetail = {
         GET_MOVIE_LIST("/data/video_comment/showid=" + id, "get").then((ok) => {
           console.log(ok.data)
           context.commit("getVideoComment", ok.data)
+        }).catch((err)=>{
+          console.log(err)
+        })
+      }, 10);
+    },
+    getMovieArtist(context,id){
+      setTimeout(() => {
+        GET_MOVIE_LIST("/data/movie_aritist/showid=" + id,"get").then((ok)=>{
+          console.log(ok.data)
+          context.commit("getArtist",ok.data)
+        }).catch(()=>{
+          router.push("/noData")
+        })
+      }, 10);
+    },
+    getMovieTrailer(context,id){
+      setTimeout(() => {
+        GET_MOVIE_LIST("/data/movie_trailer/showid=" + id,"get").then((ok)=>{
+          console.log(ok.data)
+          context.commit("getTrailer",ok.data)
+        }).catch(()=>{
+          router.push("/noData")
         })
       }, 10);
     }

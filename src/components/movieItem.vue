@@ -19,7 +19,7 @@
       <p>主演：{{ vvv.leadingRole }}</p>
     </div>
     <div class="buyBtn">
-      <span class="a" v-if="vvv.scoreAndFavor.score.scoreName!='暂无评分'">购票</span>
+      <span class="a" v-if="vvv.scoreAndFavor.score.scoreName!='暂无评分'" @click="buyTicket()">购票</span>
       <span class="b" v-else>预售</span>
     </div>
   </div>
@@ -49,6 +49,9 @@ export default {
     },
     movieVideo(val){
       this.$router.push({path:"/movieVideo",query:{showid:val}})
+    },
+    buyTicket(){
+      this.$router.push("/login")
     }
   }
 };

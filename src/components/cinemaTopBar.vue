@@ -59,7 +59,7 @@ header{
   height: 20px;
   margin-left: 7px;
   margin-top: 5px;
-  background: url(//gw.alicdn.com/tfs/TB1EOXXsQL0gK0jSZFtXXXQCXXa-1024-1024.svg) no-repeat;
+  background: url(http://gw.alicdn.com/tfs/TB1EOXXsQL0gK0jSZFtXXXQCXXa-1024-1024.svg) no-repeat;
   background-size: 100%;
   color: #999;
 }

@@ -6,6 +6,8 @@ import store from './store'
 import BottomBar from "com/bottomBar";
 import Loading from "com/loading";
 
+import "normalize.css";
+
 require("./mock")
 
 Vue.config.productionTip = false

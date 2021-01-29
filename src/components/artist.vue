@@ -1,6 +1,6 @@
 <template>
   <section class="show-artists">
-      <div class="title">
+      <div class="title" @click="getArtist()">
         <h4>{{title}}</h4>
         <span>{{num}}</span>
       </div>
@@ -23,6 +23,15 @@ export default {
   methods:{
     getImgUrl(val){
       return "https://gw.alicdn.com/"  + val;
+    },
+    getArtist(){
+      // console.log(this.title)
+      if(this.title =="演职人员"){
+        this.$router.push({path:"/movieArtist",query:{showid:this.$route.query.showid}})
+      }
+      if(this.title =="视频和剧照"){
+        this.$router.push({path:"/movieTrailer",query:{showid:this.$route.query.showid}})
+      }
     }
   }
 }

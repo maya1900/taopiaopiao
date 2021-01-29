@@ -1,0 +1,64 @@
+{
+    "imageTypes": [
+      "剧照",
+      "海报",
+      "新闻图片"
+    ],
+    "images": {
+      "海报": [
+        "i1/O1CN017NgS5e1OZnshhQEOk_!!6000000001720-0-alipicbeacon.jpg",
+        "i4/O1CN01bOl3Wm1L6XjHFZxCV_!!6000000001250-0-alipicbeacon.jpg",
+        "i3/O1CN018jcHbo1MZE9AjcWaQ_!!6000000001448-0-alipicbeacon.jpg",
+        "i3/O1CN01o9DP4L1TUpehOypn3_!!6000000002386-0-alipicbeacon.jpg",
+        "i4/O1CN013a0Jxx1fTi4e0ToSz_!!6000000004008-0-alipicbeacon.jpg",
+        "i2/O1CN014D41LH1xUm4yyLHv5_!!6000000006447-0-alipicbeacon.jpg",
+        "i1/O1CN01WvXwjM1X8cuqIGhYD_!!6000000002879-0-alipicbeacon.jpg",
+        "i2/O1CN01QT4phz1kcTjkTQ4bm_!!6000000004704-0-alipicbeacon.jpg",
+        "i3/TB1p_1USBr0gK0jSZFnXXbRRXXa_.jpg",
+        "i4/TB1v6V0g9R26e4jSZFEXXbwuXXa_.jpg",
+        "i2/TB1OqG4J1T2gK0jSZFvXXXnFXXa_.jpg",
+        "i4/TB1v6V0g9R26e4jSZFEXXbwuXXa_.jpg"
+      ],
+      "新闻图片": [
+        "i4/O1CN01jfDusO1hINVoIoXuY_!!6000000004254-0-alipicbeacon.jpg",
+        "i2/O1CN013Wu0W61aJ6peLcNIw_!!6000000003308-0-alipicbeacon.jpg",
+        "i2/O1CN01PEUvou1uetzUq6Fa7_!!6000000006063-0-alipicbeacon.jpg",
+        "i4/O1CN01tbBeen21lxP6CVWb6_!!6000000007026-0-alipicbeacon.jpg",
+        "i2/O1CN01L0pHsW1GxbXA1QB0x_!!6000000000689-0-alipicbeacon.jpg",
+        "i1/O1CN01vMHhTe1RhXPhmrwuV_!!6000000002143-0-alipicbeacon.jpg",
+        "i4/O1CN01TZwS8V1FYaHYUyQxC_!!6000000000499-0-alipicbeacon.jpg",
+        "i1/O1CN01cju0Se1pCthB2oZ8z_!!6000000005325-0-alipicbeacon.jpg",
+        "i4/O1CN01EfJxV91gTXXtPS8H7_!!6000000004143-0-alipicbeacon.jpg",
+        "i1/O1CN01cFDLpn1bo5EQkZLfN_!!6000000003511-0-alipicbeacon.jpg",
+        "i3/O1CN01OzdIoT1HaXCQmGn6V_!!6000000000774-0-alipicbeacon.jpg"
+      ],
+      "剧照": [
+        "i4/O1CN01VZGSrH1TH5mfCAjbA_!!6000000002356-0-alipicbeacon.jpg",
+        "i4/O1CN01ZDNFdX1RPfyU1q3lu_!!6000000002104-0-alipicbeacon.jpg",
+        "i2/O1CN01KyjMtX29If070sEoK_!!6000000008045-0-alipicbeacon.jpg",
+        "i3/O1CN01FATI9z1pmcaz9L6Op_!!6000000005403-0-alipicbeacon.jpg",
+        "i2/O1CN013Og0mr1LXZ5vxLRRg_!!6000000001309-0-alipicbeacon.jpg",
+        "i1/O1CN011xJzkA29MKACc7vVY_!!6000000008053-0-alipicbeacon.jpg",
+        "i4/O1CN01AnJoiA1VNAGBElcmw_!!6000000002640-0-alipicbeacon.jpg",
+        "i2/O1CN01BJjG371WXzEXwqsRL_!!6000000002799-0-alipicbeacon.jpg",
+        "i1/O1CN01qhxjHw1MfBI6AMuQu_!!6000000001461-0-alipicbeacon.jpg",
+        "i2/O1CN01BURPOt1QCZ0djaWzl_!!6000000001940-0-alipicbeacon.jpg",
+        "i4/O1CN01FKD52S1wdBjmJoX13_!!6000000006330-0-alipicbeacon.jpg",
+        "i1/O1CN01OTSQsX1J1qQbRHQZa_!!6000000000969-0-alipicbeacon.jpg",
+        "i1/O1CN01jNkWbV234Z6kCOqFr_!!6000000007202-0-alipicbeacon.jpg",
+        "i1/O1CN01GRnKrv1DscN8ITxKv_!!6000000000272-0-alipicbeacon.jpg",
+        "i1/O1CN01NUga4x1rRfhVXlCPb_!!6000000005628-0-alipicbeacon.jpg",
+        "i4/O1CN01smKTJU1Wy5nu4nAcu_!!6000000002856-0-alipicbeacon.jpg",
+        "i1/O1CN01u1atFR1dT8LK9xUL0_!!6000000003736-0-alipicbeacon.jpg",
+        "i2/O1CN01oCJSoi1ZLZL08qlkX_!!6000000003178-0-alipicbeacon.jpg",
+        "i3/O1CN01RI6ANP1yIhFSvgxJ2_!!6000000006556-0-alipicbeacon.jpg",
+        "i1/O1CN01bYn0tG1kXtlyGK97a_!!6000000004694-0-alipicbeacon.jpg",
+        "i4/O1CN01i75kjm1T1yhCUU6RZ_!!6000000002323-0-alipicbeacon.jpg",
+        "i3/TB1._lwgIVl614jSZKPXXaGjpXa_.jpg",
+        "i4/O1CN01pGQtcJ1JCpvtmCxPB_!!6000000000993-0-alipicbeacon.jpg",
+        "i4/O1CN01unbpQV1hOn3AEzTpI_!!6000000004268-0-alipicbeacon.jpg",
+        "i3/O1CN01MCAMOC1nEbwRtzCyc_!!6000000005058-0-alipicbeacon.jpg",
+        "i4/O1CN01Gx8gy228DnAHgUfxl_!!6000000007899-0-alipicbeacon.jpg"
+      ]
+    }
+  }

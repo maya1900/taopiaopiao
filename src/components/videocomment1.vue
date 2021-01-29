@@ -22,7 +22,7 @@ export default {
   },
   methods:{
     getAvatar(){
-      return "//gw.alicdn.com/" + this.comment1.userVO.avatar
+      return "http://gw.alicdn.com/" + this.comment1.userVO.avatar
     },
     timestampToTime(timestamp) {
       var date = new Date(timestamp * 1);//时间戳为10位需*1000，时间戳为13位的话不需乘1000
