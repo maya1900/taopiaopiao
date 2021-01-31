@@ -9,7 +9,8 @@ export const movieDetail = {
     videoObj:{},
     videoCommentObj:{},
     movieArtist:{},
-    movieTrailer:{}
+    movieTrailer:{},
+    allComment:{}
   },
   mutations:{
     getMovie(state,payload){
@@ -27,6 +28,7 @@ export const movieDetail = {
       state.commentOtObj = {}
       state.videoObj = {}
       state.videoCommentObj = {}
+      state.allComment = {}
     },
     getVideo(state,payload){
       state.videoObj = payload
@@ -39,6 +41,9 @@ export const movieDetail = {
     },
     getTrailer(state,payload){
       state.movieTrailer = payload
+    },
+    getAllComment(state,payload){
+      state.allComment = payload
     }
   },
   actions:{
@@ -111,6 +116,14 @@ export const movieDetail = {
           context.commit("getTrailer",ok.data)
         }).catch(()=>{
           router.push("/noData")
+        })
+      }, 10);
+    },
+    getAllCommentData(context,id){
+      setTimeout(() => {
+        GET_MOVIE_LIST("/data/comment_all/showid=" + id,"get").then((ok)=>{
+          console.log(ok.data)
+          context.commit("getAllComment",ok.data)
         })
       }, 10);
     }

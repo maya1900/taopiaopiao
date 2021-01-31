@@ -12,11 +12,13 @@ Mock.mock("/data/cinemalist/2", "get", require("./data/xa_cinema1.json"))
 
 Mock.mock("/data/cinema_detail/cinemaid=4346", "get", require("./data/bona.json"))
 Mock.mock("/data/cinema_detail/cinemaid=4348", "get", require("./data/bona1.json"))
+Mock.mock("/data/cinema_detail/cinemaid=4962", "get", require("./data/happy.json"))
 
 //电影请求
 
 Mock.mock("/data/movie/showid=1337617","get",require("./data/movie/giveyouaflower.json"))
 Mock.mock("/data/comment/showid=1337617", "get", require("./data/movie/giveyou_comment.json"))
+Mock.mock("/data/comment_all/showid=1337617", "get", require("./data/movie/giveyou_allcomment.json"))
 Mock.mock("/data/comment_other/showid=1337617", "get", require("./data/movie/giveyou_other.json"))
 Mock.mock("/data/video/showid=1337617", "get", require("./data/movie/giveyou_getvideo.json"))
 Mock.mock("/data/video_comment/showid=1337617", "get", require("./data/movie/giveyou_video_comment.json"))
@@ -26,6 +28,7 @@ Mock.mock("/data/movie_trailer/showid=1337617", "get", require("./data/movie/giv
 
 Mock.mock("/data/movie/showid=1312811", "get", require("./data/movie/dahongbao.json"))
 Mock.mock("/data/comment/showid=1312811", "get", require("./data/movie/dahongbao_comment.json"))
+Mock.mock("/data/comment_all/showid=1312811", "get", require("./data/movie/dahongbao_allcomment.json"))
 Mock.mock("/data/comment_other/showid=1312811", "get", require("./data/movie/dahongbao_other.json"))
 Mock.mock("/data/video/showid=1312811", "get", require("./data/movie/dahongbao_getvideo.json"))
 Mock.mock("/data/video_comment/showid=1312811", "get", require("./data/movie/dahongbao_video_comment.json"))
@@ -34,6 +37,7 @@ Mock.mock("/data/movie_trailer/showid=1312811", "get", require("./data/movie/dah
 
 Mock.mock("/data/movie/showid=1275255", "get", require("./data/movie/splitbugget.json"))
 Mock.mock("/data/comment/showid=1275255", "get", require("./data/movie/splitbugget_comment.json"))
+Mock.mock("/data/comment_all/showid=1275255", "get", require("./data/movie/splitbugget_allcomment.json"))
 Mock.mock("/data/comment_other/showid=1275255", "get", require("./data/movie/splitbugget_other.json"))
 Mock.mock("/data/video/showid=1275255", "get", require("./data/movie/splitbugget_getvideo.json"))
 Mock.mock("/data/video_comment/showid=1275255", "get", require("./data/movie/splitbugget_video_comment.json"))

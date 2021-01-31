@@ -1,0 +1,3910 @@
+{
+    "announceVos": [
+      {
+        "activityTagList": [
+          {
+            "tagName": "特惠票",
+            "tagType": "4"
+          }
+        ],
+        "announceId": "13336191613059200000_13",
+        "couponPopupItemVO": {
+          "promotionItemVO": {
+            "activityList": [
+              {
+                "activityTag": "特惠",
+                "announceId": "241394_2",
+                "desc": "1、活动时间：1月29日8:00至24:00，1月30日-2月11日每天00:00至24:00，限量抢购。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，最多可购买2张特惠电影票。（注：同一用户定义：账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：账号实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票客服热线：0571-88157838。",
+                "firstCardOrderOnly": "false",
+                "firstCardRechargeOnly": "false",
+                "hasJoined": "false",
+                "tag": "特惠票",
+                "title": "特惠抢票，名额有限抢完即止",
+                "type": "4",
+                "url": "https://m.taopiaopiao.com/tickets/movie/pages/activity-detail/index.html?activityId=241394_2&activityType=4&from=tbmovie&spm=a2115o.8783911.0.0"
+              }
+            ]
+          }
+        },
+        "subTitle": "查看",
+        "tag": "享优惠",
+        "type": "13"
+      },
+      {
+        "activityTagList": [
+          {
+            "tagName": "特惠票",
+            "tagType": "4"
+          }
+        ],
+        "announceId": "2136821613059200000_13",
+        "couponPopupItemVO": {
+          "promotionItemVO": {
+            "activityList": [
+              {
+                "activityTag": "特惠",
+                "announceId": "241458_2",
+                "desc": "1、活动时间：1月29日8：00-2月11日24:00，限量抢购。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，最多可购买2张特惠电影票。（注：同一用户定义：账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：账号实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票客服热线：0571-88157838。",
+                "firstCardOrderOnly": "false",
+                "firstCardRechargeOnly": "false",
+                "hasJoined": "false",
+                "tag": "特惠票",
+                "title": "特惠抢票，名额有限抢完即止",
+                "type": "4",
+                "url": "https://m.taopiaopiao.com/tickets/movie/pages/activity-detail/index.html?activityId=241458_2&activityType=4&from=tbmovie&spm=a2115o.8783911.0.0"
+              }
+            ]
+          }
+        },
+        "subTitle": "查看",
+        "tag": "享优惠",
+        "type": "13"
+      },
+      {
+        "activityTagList": [
+          {
+            "tagName": "特惠票",
+            "tagType": "4"
+          }
+        ],
+        "announceId": "13331851613059200000_13",
+        "couponPopupItemVO": {
+          "promotionItemVO": {
+            "activityList": [
+              {
+                "activityTag": "特惠",
+                "announceId": "241520_2",
+                "desc": "1、活动时间：1月29日起 ，每日8：00-22：00，限量抢购。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，最多可购买2张特惠电影票。（注：同一用户定义：账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：账号实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票客服热线：0571-88157838。",
+                "firstCardOrderOnly": "false",
+                "firstCardRechargeOnly": "false",
+                "hasJoined": "false",
+                "tag": "特惠票",
+                "title": "特惠活动，名额有限抢完即止",
+                "type": "4",
+                "url": "https://m.taopiaopiao.com/tickets/movie/pages/activity-detail/index.html?activityId=241520_2&activityType=4&from=tbmovie&spm=a2115o.8783911.0.0"
+              }
+            ]
+          }
+        },
+        "subTitle": "查看",
+        "tag": "享优惠",
+        "type": "13"
+      },
+      {
+        "activityTagList": [
+          {
+            "tagName": "特惠票",
+            "tagType": "4"
+          }
+        ],
+        "announceId": "13255951613059200000_13",
+        "couponPopupItemVO": {
+          "promotionItemVO": {
+            "activityList": [
+              {
+                "activityTag": "特惠",
+                "announceId": "241523_2",
+                "desc": "1、活动时间：1月29日8：00起 每天00：00-24：00，限量抢购。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，最多可购买2张特惠电影票。（注：同一用户定义：账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：账号实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票客服热线：0571-88157838。",
+                "firstCardOrderOnly": "false",
+                "firstCardRechargeOnly": "false",
+                "hasJoined": "false",
+                "tag": "特惠票",
+                "title": "特惠抢票，名额有限抢完即止",
+                "type": "4",
+                "url": "https://m.taopiaopiao.com/tickets/movie/pages/activity-detail/index.html?activityId=241523_2&activityType=4&from=tbmovie&spm=a2115o.8783911.0.0"
+              }
+            ]
+          }
+        },
+        "subTitle": "查看",
+        "tag": "享优惠",
+        "type": "13"
+      },
+      {
+        "activityTagList": [
+          {
+            "tagName": "特惠票",
+            "tagType": "4"
+          }
+        ],
+        "announceId": "12112891613059200000_13",
+        "couponPopupItemVO": {
+          "promotionItemVO": {
+            "activityList": [
+              {
+                "activityTag": "特惠",
+                "announceId": "241495_2",
+                "desc": "1、活动时间：1月29日8:00至24:00，1月30日-2月11日每天00:00至24:00，限量抢购。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，最多可购买2张特惠电影票。（注：同一用户定义：账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：账号实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票客服热线：0571-88157838。",
+                "firstCardOrderOnly": "false",
+                "firstCardRechargeOnly": "false",
+                "hasJoined": "false",
+                "tag": "特惠票",
+                "title": "特惠抢票，名额有限抢完即止",
+                "type": "4",
+                "url": "https://m.taopiaopiao.com/tickets/movie/pages/activity-detail/index.html?activityId=241495_2&activityType=4&from=tbmovie&spm=a2115o.8783911.0.0"
+              }
+            ]
+          }
+        },
+        "subTitle": "查看",
+        "tag": "享优惠",
+        "type": "13"
+      },
+      {
+        "activityTagList": [
+          {
+            "tagName": "特惠票",
+            "tagType": "4"
+          }
+        ],
+        "announceId": "12768211613059200000_13",
+        "couponPopupItemVO": {
+          "promotionItemVO": {
+            "activityList": [
+              {
+                "activityTag": "特惠",
+                "announceId": "241409_2",
+                "desc": "1、活动时间：1月29日-2月11日00：00-24：00，限量抢购。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，最多可购买2张特惠电影票。（注：同一用户定义：账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：账号实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票客服热线：0571-88157838。",
+                "firstCardOrderOnly": "false",
+                "firstCardRechargeOnly": "false",
+                "hasJoined": "false",
+                "tag": "特惠票",
+                "title": "特惠抢票，名额有限抢完即止",
+                "type": "4",
+                "url": "https://m.taopiaopiao.com/tickets/movie/pages/activity-detail/index.html?activityId=241409_2&activityType=4&from=tbmovie&spm=a2115o.8783911.0.0"
+              }
+            ]
+          }
+        },
+        "subTitle": "查看",
+        "tag": "享优惠",
+        "type": "13"
+      },
+      {
+        "activityTagList": [
+          {
+            "tagName": "特惠票",
+            "tagType": "4"
+          }
+        ],
+        "announceId": "13345881613059200000_13",
+        "couponPopupItemVO": {
+          "promotionItemVO": {
+            "activityList": [
+              {
+                "activityTag": "特惠",
+                "announceId": "241528_2",
+                "desc": "1、活动时间：1月29日起 ，每日8：00-22：00，限量抢购。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，最多可购买2张特惠电影票。（注：同一用户定义：账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：账号实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票客服热线：0571-88157838。",
+                "firstCardOrderOnly": "false",
+                "firstCardRechargeOnly": "false",
+                "hasJoined": "false",
+                "tag": "特惠票",
+                "title": "特惠活动，名额有限抢完即止",
+                "type": "4",
+                "url": "https://m.taopiaopiao.com/tickets/movie/pages/activity-detail/index.html?activityId=241528_2&activityType=4&from=tbmovie&spm=a2115o.8783911.0.0"
+              }
+            ]
+          }
+        },
+        "subTitle": "查看",
+        "tag": "享优惠",
+        "type": "13"
+      },
+      {
+        "activityTagList": [
+          {
+            "tagName": "特惠票",
+            "tagType": "4"
+          }
+        ],
+        "announceId": "12752551612022400000_13",
+        "couponPopupItemVO": {
+          "promotionItemVO": {
+            "activityList": [
+              {
+                "activityTag": "特惠",
+                "announceId": "240400_2",
+                "desc": "1、活动时间：2021年1月28日-2021年1月31日 00：00--24：00，限量抢购。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，最多可购买2张特惠电影票。（注：同一用户定义：账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：账号实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票客服热线：0571-88157838。",
+                "firstCardOrderOnly": "false",
+                "firstCardRechargeOnly": "false",
+                "hasJoined": "false",
+                "tag": "特惠票",
+                "title": "特惠活动，名额有限抢完即止",
+                "type": "4",
+                "url": "https://m.taopiaopiao.com/tickets/movie/pages/activity-detail/index.html?activityId=240400_2&activityType=4&from=tbmovie&spm=a2115o.8783911.0.0"
+              }
+            ]
+          }
+        },
+        "subTitle": "查看",
+        "tag": "享优惠",
+        "type": "13"
+      }
+    ],
+    "cinemaVo": {
+      "address": "新城区金花南路59号立丰国际购物广场九层",
+      "alwaysGo": "false",
+      "cinemaDetailUrl": "https://m.taopiaopiao.com/tickets/movie/pages/cinema-detail/index.html?from=ap&cinemaid=4962",
+      "cinemaId": "4962",
+      "cinemaName": "幸福蓝海国际影城（西安店）",
+      "distance": "-1.0",
+      "latitude": "34.247683",
+      "longitude": "108.99706900000001",
+      "phoneList": [
+        "029-82630010"
+      ],
+      "scheduleCloseTime": "1",
+      "scheduleCount": "34",
+      "supportList": [
+        {
+          "code": "30",
+          "desc": "艺术影厅",
+          "name": "艺术影厅",
+          "support": "true"
+        },
+        {
+          "code": "7",
+          "desc": "1.3米（含）以下儿童观看2D影片免票无座，每位家长限带一名儿童",
+          "name": "儿童优惠",
+          "support": "true"
+        },
+        {
+          "code": "2",
+          "desc": "免费使用",
+          "name": "3D眼镜",
+          "support": "true"
+        },
+        {
+          "code": "1",
+          "desc": "停车信息:地下负二、三层有800多个停车位，凭影院票根可享2小时免费停车;",
+          "name": "可停车",
+          "support": "true"
+        },
+        {
+          "code": "6",
+          "desc": "有情侣座",
+          "name": "情侣座",
+          "support": "true"
+        },
+        {
+          "code": "9",
+          "desc": "大厅覆盖WIFI，关注微信公众号(xaxflhyc)可加入",
+          "name": "WIFI",
+          "support": "true"
+        }
+      ]
+    },
+    "mCardItemVO": {
+      "userMCardStatus": "4"
+    },
+    "noLoginTip": "登录后可查看实际能享受的价格",
+    "scheduleCloseTip": "开场前1分钟停止售票",
+    "scheduleStopSellTip": "为保证用户的观影体验，影院在影片开始的1分钟前停止在线购票服务",
+    "showScheduleMap": {
+      "213682": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612022400000",
+          "dateDesc": "今天01-31",
+          "dateTip": "今天 01-31",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "0",
+          "scheduleVos": [
+            
+          ]
+        },
+        {
+          "activityTag": "惠",
+          "announceIds": [
+            "2136821613059200000_13"
+          ],
+          "date": "1613059200000",
+          "dateDesc": "初一 02-12",
+          "dateTip": "初一 02-12",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "1",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "12:20",
+              "hallName": "6号激光厅按摩椅5-10排12-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥54.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥11.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "10:20",
+              "oriPrice": "5450",
+              "scheduleCloseTime": "1613096340000",
+              "scheduleId": "831218839",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-12 10:20:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "4340",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "538681": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612022400000",
+          "dateDesc": "今天01-31",
+          "dateTip": "今天 01-31",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "1",
+          "scheduleVos": [
+            
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612108800000",
+          "dateDesc": "明天02-01",
+          "dateTip": "明天 02-01",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "1",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "14:36",
+              "hallName": "4号激光厅按摩椅3-8排10-15座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "12:45",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612154640000",
+              "scheduleId": "832256420",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 12:45:00",
+              "showVersion": "原版 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1211289": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612022400000",
+          "dateDesc": "今天01-31",
+          "dateTip": "今天 01-31",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "0",
+          "scheduleVos": [
+            
+          ]
+        },
+        {
+          "activityTag": "惠",
+          "announceIds": [
+            "12112891613059200000_13"
+          ],
+          "date": "1613059200000",
+          "dateDesc": "初一 02-12",
+          "dateTip": "初一 02-12",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "1",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "11:50",
+              "hallName": "8号斯柯达厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥54.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥15.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "09:40",
+              "oriPrice": "5450",
+              "scheduleCloseTime": "1613093940000",
+              "scheduleId": "831218845",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-12 09:40:00",
+              "showVersion": "国语 3D",
+              "tradePrice": "3940",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1275255": [
+        {
+          "activityTag": "惠",
+          "announceIds": [
+            "12752551612022400000_13"
+          ],
+          "date": "1612022400000",
+          "dateDesc": "今天01-31",
+          "dateTip": "今天 01-31",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "9",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "15:31",
+              "hallName": "6号激光厅按摩椅5-10排12-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥36.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥3.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "13:30",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612070940000",
+              "scheduleId": "831450347",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 13:30:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3340",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "16:51",
+              "hallName": "2号激光厅按摩椅6-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥39.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥3.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "14:50",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612075740000",
+              "scheduleId": "832007388",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 14:50:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3640",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "18:01",
+              "hallName": "6号激光厅按摩椅5-10排12-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥39.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥3.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "16:00",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612079940000",
+              "scheduleId": "831450343",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 16:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3640",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "19:21",
+              "hallName": "2号激光厅按摩椅6-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥39.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥3.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "17:20",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612084740000",
+              "scheduleId": "832007371",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 17:20:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3640",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "20:31",
+              "hallName": "6号激光厅按摩椅5-10排12-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥39.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥3.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "18:30",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612088940000",
+              "scheduleId": "831450342",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 18:30:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3640",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "21:51",
+              "hallName": "2号激光厅按摩椅6-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥39.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥3.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "19:50",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612093740000",
+              "scheduleId": "832007382",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 19:50:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3640",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "23:01",
+              "hallName": "6号激光厅按摩椅5-10排12-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥39.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥3.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "21:00",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612097940000",
+              "scheduleId": "831450358",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 21:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3640",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "00:21",
+              "hallName": "2号激光厅按摩椅6-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "22:20",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612102740000",
+              "scheduleId": "832007387",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 22:20:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            }
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612108800000",
+          "dateDesc": "明天02-01",
+          "dateTip": "明天 02-01",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "9",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "13:01",
+              "hallName": "6号激光厅按摩椅5-10排12-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "11:00",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612148340000",
+              "scheduleId": "832256448",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 11:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "15:31",
+              "hallName": "6号激光厅按摩椅5-10排12-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "13:30",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612157340000",
+              "scheduleId": "832256441",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 13:30:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "16:51",
+              "hallName": "2号激光厅按摩椅6-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "14:50",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612162140000",
+              "scheduleId": "832256422",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 14:50:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "18:01",
+              "hallName": "6号激光厅按摩椅5-10排12-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "16:00",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612166340000",
+              "scheduleId": "832256444",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 16:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "19:21",
+              "hallName": "2号激光厅按摩椅6-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "17:20",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612171140000",
+              "scheduleId": "832256453",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 17:20:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "20:31",
+              "hallName": "6号激光厅按摩椅5-10排12-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "18:30",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612175340000",
+              "scheduleId": "832256443",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 18:30:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "21:51",
+              "hallName": "2号激光厅按摩椅6-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "19:50",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612180140000",
+              "scheduleId": "832256412",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 19:50:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "23:01",
+              "hallName": "6号激光厅按摩椅5-10排12-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "21:00",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612184340000",
+              "scheduleId": "832256434",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 21:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "00:21",
+              "hallName": "2号激光厅按摩椅6-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "22:20",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612189140000",
+              "scheduleId": "832256428",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 22:20:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1276821": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612022400000",
+          "dateDesc": "今天01-31",
+          "dateTip": "今天 01-31",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "0",
+          "scheduleVos": [
+            
+          ]
+        },
+        {
+          "activityTag": "惠",
+          "announceIds": [
+            "12768211613059200000_13"
+          ],
+          "date": "1613059200000",
+          "dateDesc": "初一 02-12",
+          "dateTip": "初一 02-12",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "6",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "11:31",
+              "hallName": "7号双机激光杜比全景声厅按摩椅7-16排14-23座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥54.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥3.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "09:15",
+              "oriPrice": "5450",
+              "scheduleCloseTime": "1613092440000",
+              "scheduleId": "831218834",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-12 09:15:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "5140",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "14:16",
+              "hallName": "7号双机激光杜比全景声厅按摩椅7-16排14-23座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥57.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥3.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "12:00",
+              "oriPrice": "5750",
+              "scheduleCloseTime": "1613102340000",
+              "scheduleId": "831978557",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-12 12:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "5440",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "17:01",
+              "hallName": "7号双机激光杜比全景声厅按摩椅7-16排14-23座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥57.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥3.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "14:45",
+              "oriPrice": "5750",
+              "scheduleCloseTime": "1613112240000",
+              "scheduleId": "831978558",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-12 14:45:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "5440",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "19:46",
+              "hallName": "7号双机激光杜比全景声厅按摩椅7-16排14-23座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥57.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥3.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "17:30",
+              "oriPrice": "5750",
+              "scheduleCloseTime": "1613122140000",
+              "scheduleId": "831978559",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-12 17:30:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "5440",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "22:31",
+              "hallName": "7号双机激光杜比全景声厅按摩椅7-16排14-23座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥57.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥3.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "20:15",
+              "oriPrice": "5750",
+              "scheduleCloseTime": "1613132040000",
+              "scheduleId": "831978556",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-12 20:15:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "5440",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "01:16",
+              "hallName": "7号双机激光杜比全景声厅按摩椅7-16排14-23座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥54.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥3.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "23:00",
+              "oriPrice": "5450",
+              "scheduleCloseTime": "1613141940000",
+              "scheduleId": "831218841",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-12 23:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "5140",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1306191": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612022400000",
+          "dateDesc": "今天01-31",
+          "dateTip": "今天 01-31",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "1",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "19:05",
+              "hallName": "4号激光厅按摩椅3-8排10-15座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "17:30",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612085340000",
+              "scheduleId": "832007378",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 17:30:00",
+              "showVersion": "日语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            }
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612108800000",
+          "dateDesc": "明天02-01",
+          "dateTip": "明天 02-01",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "1",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "19:05",
+              "hallName": "4号激光厅按摩椅3-8排10-15座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "17:30",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612171740000",
+              "scheduleId": "832256429",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 17:30:00",
+              "showVersion": "日语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1312811": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612022400000",
+          "dateDesc": "今天01-31",
+          "dateTip": "今天 01-31",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "3",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "17:02",
+              "hallName": "4号激光厅按摩椅3-8排10-15座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "15:00",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612076340000",
+              "scheduleId": "832007370",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 15:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "21:32",
+              "hallName": "4号激光厅按摩椅3-8排10-15座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "19:30",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612092540000",
+              "scheduleId": "832007374",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 19:30:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            }
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612108800000",
+          "dateDesc": "明天02-01",
+          "dateTip": "明天 02-01",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "3",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "12:12",
+              "hallName": "4号激光厅按摩椅3-8排10-15座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "10:10",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612145340000",
+              "scheduleId": "832256436",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 10:10:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "17:02",
+              "hallName": "4号激光厅按摩椅3-8排10-15座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "15:00",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612162740000",
+              "scheduleId": "832256415",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 15:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "21:32",
+              "hallName": "4号激光厅按摩椅3-8排10-15座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "19:30",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612178940000",
+              "scheduleId": "832256431",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 19:30:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1324785": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612022400000",
+          "dateDesc": "今天01-31",
+          "dateTip": "今天 01-31",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "6",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "15:21",
+              "hallName": "8号斯柯达厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "13:40",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612071540000",
+              "scheduleId": "831450344",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 13:40:00",
+              "showVersion": "英语 3D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "17:31",
+              "hallName": "8号斯柯达厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "15:50",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612079340000",
+              "scheduleId": "831450352",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 15:50:00",
+              "showVersion": "国语 3D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "19:41",
+              "hallName": "8号斯柯达厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "18:00",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612087140000",
+              "scheduleId": "831450313",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 18:00:00",
+              "showVersion": "国语 3D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "21:56",
+              "hallName": "8号斯柯达厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "20:15",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612095240000",
+              "scheduleId": "831450306",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 20:15:00",
+              "showVersion": "英语 3D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "00:11",
+              "hallName": "8号斯柯达厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "22:30",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612103340000",
+              "scheduleId": "831450359",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 22:30:00",
+              "showVersion": "英语 3D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            }
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612108800000",
+          "dateDesc": "明天02-01",
+          "dateTip": "明天 02-01",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "6",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "13:11",
+              "hallName": "8号斯柯达厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "11:30",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612150140000",
+              "scheduleId": "832256440",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 11:30:00",
+              "showVersion": "国语 3D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "15:21",
+              "hallName": "8号斯柯达厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "13:40",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612157940000",
+              "scheduleId": "832256424",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 13:40:00",
+              "showVersion": "英语 3D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "17:31",
+              "hallName": "8号斯柯达厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "15:50",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612165740000",
+              "scheduleId": "832256452",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 15:50:00",
+              "showVersion": "国语 3D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "19:41",
+              "hallName": "8号斯柯达厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "18:00",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612173540000",
+              "scheduleId": "832256445",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 18:00:00",
+              "showVersion": "国语 3D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "21:56",
+              "hallName": "8号斯柯达厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "20:15",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612181640000",
+              "scheduleId": "832256423",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 20:15:00",
+              "showVersion": "英语 3D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "00:11",
+              "hallName": "8号斯柯达厅",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "22:30",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612189740000",
+              "scheduleId": "832256447",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 22:30:00",
+              "showVersion": "英语 3D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1325595": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612022400000",
+          "dateDesc": "今天01-31",
+          "dateTip": "今天 01-31",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "0",
+          "scheduleVos": [
+            
+          ]
+        },
+        {
+          "activityTag": "惠",
+          "announceIds": [
+            "13255951613059200000_13"
+          ],
+          "date": "1613059200000",
+          "dateDesc": "初一 02-12",
+          "dateTip": "初一 02-12",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "1",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "11:39",
+              "hallName": "1号儿童厅按摩椅5-9排10-18座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥54.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥15.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "10:00",
+              "oriPrice": "5450",
+              "scheduleCloseTime": "1613095140000",
+              "scheduleId": "831218838",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-12 10:00:00",
+              "showVersion": "国语 3D",
+              "tradePrice": "3940",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1326044": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612022400000",
+          "dateDesc": "今天01-31",
+          "dateTip": "今天 01-31",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "5",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "18:17",
+              "hallName": "5号激光厅按摩椅3-8排9-16座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "16:25",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612081440000",
+              "scheduleId": "832007390",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 16:25:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "22:22",
+              "hallName": "5号激光厅按摩椅3-8排9-16座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "20:30",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612096140000",
+              "scheduleId": "832007379",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 20:30:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "23:52",
+              "hallName": "4号激光厅按摩椅3-8排10-15座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "22:00",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612101540000",
+              "scheduleId": "832007367",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 22:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            }
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612108800000",
+          "dateDesc": "明天02-01",
+          "dateTip": "明天 02-01",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "5",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "11:52",
+              "hallName": "2号激光厅按摩椅6-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "10:00",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612144740000",
+              "scheduleId": "832256442",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 10:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "14:17",
+              "hallName": "2号激光厅按摩椅6-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "12:25",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612153440000",
+              "scheduleId": "832256416",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 12:25:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "18:17",
+              "hallName": "5号激光厅按摩椅3-8排9-16座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "16:25",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612167840000",
+              "scheduleId": "832256414",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 16:25:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "22:22",
+              "hallName": "5号激光厅按摩椅3-8排9-16座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "20:30",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612182540000",
+              "scheduleId": "832256437",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 20:30:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "23:52",
+              "hallName": "4号激光厅按摩椅3-8排10-15座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "22:00",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612187940000",
+              "scheduleId": "832256421",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 22:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1333185": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612022400000",
+          "dateDesc": "今天01-31",
+          "dateTip": "今天 01-31",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "0",
+          "scheduleVos": [
+            
+          ]
+        },
+        {
+          "activityTag": "惠",
+          "announceIds": [
+            "13331851613059200000_13"
+          ],
+          "date": "1613059200000",
+          "dateDesc": "初一 02-12",
+          "dateTip": "初一 02-12",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "1",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "12:09",
+              "hallName": "5号激光厅按摩椅3-8排9-16座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥54.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥11.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "10:10",
+              "oriPrice": "5450",
+              "scheduleCloseTime": "1613095740000",
+              "scheduleId": "831947744",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-12 10:10:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "4340",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1333619": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612022400000",
+          "dateDesc": "今天01-31",
+          "dateTip": "今天 01-31",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "0",
+          "scheduleVos": [
+            
+          ]
+        },
+        {
+          "activityTag": "惠",
+          "announceIds": [
+            "13336191613059200000_13"
+          ],
+          "date": "1613059200000",
+          "dateDesc": "初一 02-12",
+          "dateTip": "初一 02-12",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "1",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "14:06",
+              "hallName": "1号儿童厅按摩椅5-9排10-18座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥57.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥15.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "12:10",
+              "oriPrice": "5750",
+              "scheduleCloseTime": "1613102940000",
+              "scheduleId": "831978555",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-12 12:10:00",
+              "showVersion": "国语 3D",
+              "tradePrice": "4240",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1334588": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612022400000",
+          "dateDesc": "今天01-31",
+          "dateTip": "今天 01-31",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "0",
+          "scheduleVos": [
+            
+          ]
+        },
+        {
+          "activityTag": "惠",
+          "announceIds": [
+            "13345881613059200000_13"
+          ],
+          "date": "1613059200000",
+          "dateDesc": "初一 02-12",
+          "dateTip": "初一 02-12",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "3",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "11:08",
+              "hallName": "2号激光厅按摩椅6-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥54.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥11.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "09:00",
+              "oriPrice": "5450",
+              "scheduleCloseTime": "1613091540000",
+              "scheduleId": "831218844",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-12 09:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "4340",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "13:43",
+              "hallName": "2号激光厅按摩椅6-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥54.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥11.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "11:35",
+              "oriPrice": "5450",
+              "scheduleCloseTime": "1613100840000",
+              "scheduleId": "831218837",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-12 11:35:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "4340",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "16:18",
+              "hallName": "2号激光厅按摩椅6-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "itemDetails": [
+                {
+                  "priceDesc": "¥57.5",
+                  "sort": "0",
+                  "title": "票价"
+                },
+                {
+                  "priceDesc": "-¥11.1",
+                  "sort": "0",
+                  "title": "平台优惠"
+                }
+              ],
+              "openTime": "14:10",
+              "oriPrice": "5750",
+              "scheduleCloseTime": "1613110140000",
+              "scheduleId": "831978554",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ],
+                "tinyTag": "惠"
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-12 14:10:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "4640",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1335260": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612022400000",
+          "dateDesc": "今天01-31",
+          "dateTip": "今天 01-31",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "4",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "16:44",
+              "hallName": "1号儿童厅按摩椅5-9排10-18座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "15:05",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612076640000",
+              "scheduleId": "831450303",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 15:05:00",
+              "showVersion": "国语 3D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "18:49",
+              "hallName": "1号儿童厅按摩椅5-9排10-18座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "17:10",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612084140000",
+              "scheduleId": "831450305",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 17:10:00",
+              "showVersion": "国语 3D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "20:54",
+              "hallName": "1号儿童厅按摩椅5-9排10-18座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "19:15",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612091640000",
+              "scheduleId": "831450333",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 19:15:00",
+              "showVersion": "国语 3D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            }
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612108800000",
+          "dateDesc": "明天02-01",
+          "dateTip": "明天 02-01",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "4",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "12:09",
+              "hallName": "1号儿童厅按摩椅5-9排10-18座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "10:30",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612146540000",
+              "scheduleId": "832256430",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 10:30:00",
+              "showVersion": "国语 3D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "16:44",
+              "hallName": "1号儿童厅按摩椅5-9排10-18座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "15:05",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612163040000",
+              "scheduleId": "832256449",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 15:05:00",
+              "showVersion": "国语 3D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "18:49",
+              "hallName": "1号儿童厅按摩椅5-9排10-18座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "17:10",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612170540000",
+              "scheduleId": "832256419",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 17:10:00",
+              "showVersion": "国语 3D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "9000",
+              "closeTime": "20:54",
+              "hallName": "1号儿童厅按摩椅5-9排10-18座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "19:15",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612178040000",
+              "scheduleId": "832256454",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 19:15:00",
+              "showVersion": "国语 3D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1335505": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612022400000",
+          "dateDesc": "今天01-31",
+          "dateTip": "今天 01-31",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "2",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "23:29",
+              "hallName": "1号儿童厅按摩椅5-9排10-18座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "21:25",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612099440000",
+              "scheduleId": "832007381",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 21:25:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            }
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612108800000",
+          "dateDesc": "明天02-01",
+          "dateTip": "明天 02-01",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "2",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "14:39",
+              "hallName": "1号儿童厅按摩椅5-9排10-18座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "12:35",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612154040000",
+              "scheduleId": "832256432",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 12:35:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "23:29",
+              "hallName": "1号儿童厅按摩椅5-9排10-18座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "21:25",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612185840000",
+              "scheduleId": "832256425",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 21:25:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1337617": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612022400000",
+          "dateDesc": "今天01-31",
+          "dateTip": "今天 01-31",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "9",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "16:28",
+              "hallName": "7号双机激光杜比全景声厅按摩椅7-16排14-23座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "14:20",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612073940000",
+              "scheduleId": "831450330",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 14:20:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "17:48",
+              "hallName": "3号激光厅按摩椅5-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "15:40",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612078740000",
+              "scheduleId": "832007372",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 15:40:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "19:08",
+              "hallName": "7号双机激光杜比全景声厅按摩椅7-16排14-23座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "17:00",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612083540000",
+              "scheduleId": "831450318",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 17:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "20:23",
+              "hallName": "3号激光厅按摩椅5-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "18:15",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612088040000",
+              "scheduleId": "832007380",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 18:15:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "21:48",
+              "hallName": "7号双机激光杜比全景声厅按摩椅7-16排14-23座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "19:40",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612093140000",
+              "scheduleId": "831450338",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 19:40:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "22:58",
+              "hallName": "3号激光厅按摩椅5-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "20:50",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612097340000",
+              "scheduleId": "832007373",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 20:50:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "00:23",
+              "hallName": "7号双机激光杜比全景声厅按摩椅7-16排14-23座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "22:15",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612102440000",
+              "scheduleId": "831450331",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 22:15:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            }
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612108800000",
+          "dateDesc": "明天02-01",
+          "dateTip": "明天 02-01",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "9",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "12:28",
+              "hallName": "3号激光厅按摩椅5-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "10:20",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612145940000",
+              "scheduleId": "832256426",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 10:20:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "15:08",
+              "hallName": "3号激光厅按摩椅5-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "13:00",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612155540000",
+              "scheduleId": "832256450",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 13:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "16:28",
+              "hallName": "7号双机激光杜比全景声厅按摩椅7-16排14-23座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "14:20",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612160340000",
+              "scheduleId": "832256438",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 14:20:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "17:48",
+              "hallName": "3号激光厅按摩椅5-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "15:40",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612165140000",
+              "scheduleId": "832256439",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 15:40:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "19:08",
+              "hallName": "7号双机激光杜比全景声厅按摩椅7-16排14-23座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "17:00",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612169940000",
+              "scheduleId": "832256433",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 17:00:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "20:23",
+              "hallName": "3号激光厅按摩椅5-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "18:15",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612174440000",
+              "scheduleId": "832256455",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 18:15:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "21:48",
+              "hallName": "7号双机激光杜比全景声厅按摩椅7-16排14-23座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "19:40",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612179540000",
+              "scheduleId": "832256456",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 19:40:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "22:58",
+              "hallName": "3号激光厅按摩椅5-10排11-20座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "20:50",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612183740000",
+              "scheduleId": "832256413",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 20:50:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "00:23",
+              "hallName": "7号双机激光杜比全景声厅按摩椅7-16排14-23座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "22:15",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612188840000",
+              "scheduleId": "832256418",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 22:15:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ],
+      "1339896": [
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612022400000",
+          "dateDesc": "今天01-31",
+          "dateTip": "今天 01-31",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "5",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "16:00",
+              "hallName": "5号激光厅按摩椅3-8排9-16座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "14:40",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612075140000",
+              "scheduleId": "832007385",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 14:40:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "20:05",
+              "hallName": "5号激光厅按摩椅3-8排9-16座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "18:45",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612089840000",
+              "scheduleId": "832007375",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 18:45:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "00:05",
+              "hallName": "5号激光厅按摩椅3-8排9-16座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "22:45",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612104240000",
+              "scheduleId": "832007376",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-01-31 22:45:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            }
+          ]
+        },
+        {
+          "announceIds": [
+            
+          ],
+          "date": "1612108800000",
+          "dateDesc": "明天02-01",
+          "dateTip": "明天 02-01",
+          "mergeActivityMap": {
+            
+          },
+          "scheduleCount": "5",
+          "scheduleVos": [
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "12:30",
+              "hallName": "5号激光厅按摩椅3-8排9-16座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "11:10",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612148940000",
+              "scheduleId": "832256451",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 11:10:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "14:15",
+              "hallName": "5号激光厅按摩椅3-8排9-16座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "12:55",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612155240000",
+              "scheduleId": "832256417",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 12:55:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "16:00",
+              "hallName": "5号激光厅按摩椅3-8排9-16座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "14:40",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612161540000",
+              "scheduleId": "832256446",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 14:40:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "20:05",
+              "hallName": "5号激光厅按摩椅3-8排9-16座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "18:45",
+              "oriPrice": "3950",
+              "scheduleCloseTime": "1612176240000",
+              "scheduleId": "832256435",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 18:45:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3950",
+              "zeroSchedule": "false"
+            },
+            {
+              "cinemaPrice": "8000",
+              "closeTime": "00:05",
+              "hallName": "5号激光厅按摩椅3-8排9-16座",
+              "hasArea": "false",
+              "hasCityPassPrice": "true",
+              "hasDiffAreaPrice": "false",
+              "openTime": "22:45",
+              "oriPrice": "3650",
+              "scheduleCloseTime": "1612190640000",
+              "scheduleId": "832256427",
+              "scheduleTag": {
+                "activityTag": "新人活动价",
+                "tagList": [
+                  {
+                    "tagName": "新人价",
+                    "tagType": "1"
+                  }
+                ]
+              },
+              "sellFlag": "0",
+              "showTime": "2021-02-01 22:45:00",
+              "showVersion": "国语 2D",
+              "tradePrice": "3650",
+              "zeroSchedule": "false"
+            }
+          ]
+        }
+      ]
+    },
+    "showVos": [
+      {
+        "activityTag": "惠",
+        "duration": "121",
+        "fantastic": "0",
+        "leadingRole": "刘德华,刘青云,倪妮,谢君豪,姜皓文,吴卓羲,马浴柯,黄德斌,郑子诚,洪天明,袁富华,刘浩龙,凌文龙,赵永洪,蔡瀚亿,张竣杰,张扬",
+        "openDay": "2020-12-24 10:00:00",
+        "openTime": "2020-12-24 10:00",
+        "poster": "i4/TB11SA1VWL7gK0jSZFBXXXZZpXa_.jpg",
+        "remark": "9.1",
+        "scoreAndFavor": {
+          "favorCount": "681217",
+          "favorCountDesc": "68.1万 人想看",
+          "score": {
+            "score": "9.1",
+            "scoreCount": "717993",
+            "scoreCountDesc": "71.8万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          },
+          "watchCount": "3609540"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1275255&hasbuybtn=false",
+        "showId": "1275255",
+        "showName": "拆弹专家2",
+        "type": "动作,犯罪",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "128",
+        "fantastic": "0",
+        "leadingRole": "易烊千玺,刘浩存,朱媛媛,高亚麟",
+        "openDay": "2020-12-31 18:00:00",
+        "openTime": "2020-12-31 18:00",
+        "poster": "i4/TB1v6V0g9R26e4jSZFEXXbwuXXa_.jpg",
+        "remark": "9.2",
+        "scoreAndFavor": {
+          "favorCount": "832740",
+          "favorCountDesc": "83.3万 人想看",
+          "score": {
+            "score": "9.2",
+            "scoreCount": "635947",
+            "scoreCountDesc": "63.6万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          },
+          "watchCount": "3577714"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1337617&hasbuybtn=false",
+        "showId": "1337617",
+        "showName": "送你一朵小红花",
+        "type": "剧情",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "101",
+        "fantastic": "0",
+        "leadingRole": "杰米·福克斯,蒂娜·菲,约翰·拉岑贝格,戴维德·迪格斯",
+        "openDay": "2020-12-25 12:00:00",
+        "openTime": "2020-12-25 12:00",
+        "poster": "i3/O1CN01rZi5il1tJ5VNjCDah_!!6000000005880-0-alipicbeacon.jpg",
+        "remark": "9.2",
+        "scoreAndFavor": {
+          "favorCount": "120841",
+          "favorCountDesc": "12.1万 人想看",
+          "score": {
+            "score": "9.2",
+            "scoreCount": "244638",
+            "scoreCountDesc": "24.5万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          },
+          "watchCount": "1251694"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1324785&hasbuybtn=false",
+        "showId": "1324785",
+        "showName": "心灵奇旅",
+        "type": "动画,冒险,喜剧",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "112",
+        "fantastic": "0",
+        "leadingRole": "常远,李沁,沈腾,乔杉",
+        "openDay": "2020-12-31 14:00:00",
+        "openTime": "2020-12-31 14:00",
+        "poster": "i1/TB1GL0TSUz1gK0jSZLeXXb9kVXa_.jpg",
+        "remark": "8.5",
+        "scoreAndFavor": {
+          "favorCount": "324626",
+          "favorCountDesc": "32.5万 人想看",
+          "score": {
+            "score": "8.5",
+            "scoreCount": "337194",
+            "scoreCountDesc": "33.7万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          },
+          "watchCount": "2051034"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1326044&hasbuybtn=false",
+        "showId": "1326044",
+        "showName": "温暖的抱抱",
+        "type": "喜剧",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "80",
+        "fantastic": "0",
+        "leadingRole": "王吉祥,大鹏,刘陆",
+        "openDay": "2021-01-29 18:00:00",
+        "openTime": "2021-01-29 18:00",
+        "poster": "i3/O1CN01uuvnMq1mvNK9lUMnV_!!6000000005016-0-alipicbeacon.jpg",
+        "remark": "8.4",
+        "scoreAndFavor": {
+          "favorCount": "9464",
+          "favorCountDesc": "9464 人想看",
+          "score": {
+            "score": "8.4",
+            "scoreCount": "3036",
+            "scoreCountDesc": "3036 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          },
+          "watchCount": "18021"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1339896&hasbuybtn=false",
+        "showId": "1339896",
+        "showName": "吉祥如意",
+        "type": "剧情,家庭",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "99",
+        "fantastic": "0",
+        "leadingRole": "成龙,牛骏峰,薇薇,苏柏丽",
+        "openDay": "2021-01-15 10:00:00",
+        "openTime": "2021-01-15 10:00",
+        "poster": "i1/O1CN012BCi5B1IjWaHs0fAp_!!6000000000929-0-alipicbeacon.jpg",
+        "remark": "8.6",
+        "scoreAndFavor": {
+          "favorCount": "53365",
+          "favorCountDesc": "5.3万 人想看",
+          "score": {
+            "score": "8.6",
+            "scoreCount": "42400",
+            "scoreCountDesc": "4.2万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          },
+          "watchCount": "264170"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1335260&hasbuybtn=false",
+        "showId": "1335260",
+        "showName": "许愿神龙",
+        "type": "动画,喜剧,奇幻",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "122",
+        "fantastic": "0",
+        "leadingRole": "包贝尔,克拉拉,张一鸣,贾冰,许君聪",
+        "openDay": "2021-01-22 18:00:00",
+        "openTime": "2021-01-22 18:00",
+        "poster": "i4/O1CN01B28PNg1C9RhuxxNlF_!!6000000000038-0-alipicbeacon.jpg",
+        "remark": "8.3",
+        "scoreAndFavor": {
+          "favorCount": "96802",
+          "favorCountDesc": "9.7万 人想看",
+          "score": {
+            "score": "8.3",
+            "scoreCount": "73575",
+            "scoreCountDesc": "7.4万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          },
+          "watchCount": "461118"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1312811&hasbuybtn=false",
+        "showId": "1312811",
+        "showName": "大红包",
+        "type": "喜剧,爱情",
+        "userShowStatus": "0"
+      },
+      {
+        "activityTag": "惠",
+        "duration": "136",
+        "fantastic": "0",
+        "leadingRole": "王宝强,刘昊然,妻夫木聪,托尼·贾,长泽雅美,染谷将太,铃木保奈美,浅野忠信,三浦友和,尚语贤,肖央,张子枫,邱泽,张钧甯",
+        "openDay": "2021-02-12 08:00:00",
+        "openTime": "2021-02-12 08:00",
+        "poster": "i1/TB1XpDfmBFR4u4jSZFPXXanzFXa_.jpg",
+        "scoreAndFavor": {
+          "favorCount": "7358308",
+          "favorCountDesc": "735.8万 人想看",
+          "score": {
+            "scoreName": "暂无评分",
+            "scoreType": "1"
+          }
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1276821&hasbuybtn=false",
+        "showId": "1276821",
+        "showName": "唐人街探案3",
+        "type": "喜剧,悬疑",
+        "userShowStatus": "0",
+        "wantCount": "7358308"
+      },
+      {
+        "duration": "124",
+        "fantastic": "0",
+        "leadingRole": "张震,张钧甯,孙安可",
+        "openDay": "2021-01-15 00:00:00",
+        "openTime": "2021-01-15",
+        "poster": "i1/O1CN01HxcNsC1VeZJUeUFWM_!!6000000002678-0-alipicbeacon.jpg",
+        "remark": "8.0",
+        "scoreAndFavor": {
+          "favorCount": "43036",
+          "favorCountDesc": "4.3万 人想看",
+          "score": {
+            "score": "8.0",
+            "scoreCount": "80787",
+            "scoreCountDesc": "8.1万 人评",
+            "scoreName": "淘票票评分",
+            "scoreType": "1"
+          },
+          "watchCount": "389078"
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1335505&hasbuybtn=false",
+        "showId": "1335505",
+        "showName": "缉魂",
+        "type": "科幻,悬疑,犯罪",
+        "userShowStatus": "0"
+      },
+      {
+        "duration": "95",
+        "fantastic": "0",
+        "leadingRole": "小林星兰,水树奈奈,松田飒水",
+        "openDay": "2021-01-29 00:00:00",
+        "openTime": "2021-01-29",
+        "poster": "i2/O1CN015QC8up1DwHYZaZBGE_!!6000000000280-0-alipicbeacon.jpg",
+        "scoreAndFavor": {
+          "favorCount": "79134",
+          "favorCountDesc": "7.9万 人想看",
+          "score": {
+            "scoreName": "暂无评分",
+            "scoreType": "1"
+          }
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1306191&hasbuybtn=false",
+        "showId": "1306191",
+        "showName": "温泉屋的小老板娘",
+        "type": "动画,剧情,奇幻",
+        "userShowStatus": "0"
+      },
+      {
+        "activityTag": "惠",
+        "duration": "128",
+        "fantastic": "0",
+        "leadingRole": "贾玲,张小斐,沈腾,陈赫",
+        "openDay": "2021-02-12 08:00:00",
+        "openTime": "2021-02-12 08:00",
+        "poster": "i4/O1CN014ZDStZ1kwdAtQGMa7_!!6000000004748-0-alipicbeacon.jpg",
+        "scoreAndFavor": {
+          "favorCount": "406199",
+          "favorCountDesc": "40.6万 人想看",
+          "score": {
+            "scoreName": "暂无评分",
+            "scoreType": "1"
+          }
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1334588&hasbuybtn=false",
+        "showId": "1334588",
+        "showName": "你好，李焕英",
+        "type": "喜剧",
+        "userShowStatus": "0",
+        "wantCount": "406199"
+      },
+      {
+        "duration": "111",
+        "fantastic": "0",
+        "leadingRole": "杰西·艾森伯格,亚历山大·斯卡斯加德,萨尔玛·海耶克",
+        "openDay": "2021-01-29 00:00:00",
+        "openTime": "2021-01-29",
+        "poster": "i1/O1CN01ZhWbdm1lTbgiqzuze_!!6000000004820-0-alipicbeacon.jpg",
+        "scoreAndFavor": {
+          "favorCount": "3712",
+          "favorCountDesc": "3712 人想看",
+          "score": {
+            "scoreName": "暂无评分",
+            "scoreType": "1"
+          }
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=538681&hasbuybtn=false",
+        "showId": "538681",
+        "showName": "蜂鸟计划",
+        "type": "剧情",
+        "userShowStatus": "0"
+      },
+      {
+        "activityTag": "惠",
+        "duration": "130",
+        "fantastic": "0",
+        "leadingRole": "雷佳音,杨幂,董子健,于和伟,郭京飞,佟丽娅,董洁",
+        "openDay": "2021-02-12 08:00:00",
+        "openTime": "2021-02-12 08:00",
+        "poster": "i4/O1CN012yXsUK1nbVl9SvwFD_!!6000000005108-0-alipicbeacon.jpg",
+        "scoreAndFavor": {
+          "favorCount": "416297",
+          "favorCountDesc": "41.6万 人想看",
+          "score": {
+            "scoreName": "暂无评分",
+            "scoreType": "1"
+          }
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1211289&hasbuybtn=false",
+        "showId": "1211289",
+        "showName": "刺杀小说家",
+        "type": "奇幻,动作,冒险",
+        "userShowStatus": "0",
+        "wantCount": "416297"
+      },
+      {
+        "activityTag": "惠",
+        "duration": "99",
+        "fantastic": "0",
+        "leadingRole": "张秉君,谭笑,张伟",
+        "openDay": "2021-02-12 08:00:00",
+        "openTime": "2021-02-12 08:00",
+        "poster": "i1/O1CN01aJFk5E28Q9rTOW5fR_!!6000000007926-0-alipicbeacon.jpg",
+        "scoreAndFavor": {
+          "favorCount": "362309",
+          "favorCountDesc": "36.2万 人想看",
+          "score": {
+            "scoreName": "暂无评分",
+            "scoreType": "1"
+          }
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1325595&hasbuybtn=false",
+        "showId": "1325595",
+        "showName": "熊出没·狂野大陆",
+        "type": "喜剧,科幻,动画",
+        "userShowStatus": "0",
+        "wantCount": "362309"
+      },
+      {
+        "activityTag": "惠",
+        "duration": "119",
+        "fantastic": "0",
+        "leadingRole": "刘德华,肖央,万茜,程怡,黄小蕾",
+        "openDay": "2021-02-12 08:00:00",
+        "openTime": "2021-02-12 08:00",
+        "poster": "i3/TB1fQk8Yxv1gK0jSZFFXXb0sXXa_.jpg",
+        "scoreAndFavor": {
+          "favorCount": "146633",
+          "favorCountDesc": "14.7万 人想看",
+          "score": {
+            "scoreName": "暂无评分",
+            "scoreType": "1"
+          }
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1333185&hasbuybtn=false",
+        "showId": "1333185",
+        "showName": "人潮汹涌",
+        "type": "剧情,喜剧,犯罪",
+        "userShowStatus": "0",
+        "wantCount": "146633"
+      },
+      {
+        "activityTag": "惠",
+        "duration": "120",
+        "fantastic": "0",
+        "leadingRole": "陈坤,周迅,陈伟霆,屈楚萧,王丽坤,沈月,王紫璇,王悦伊",
+        "openDay": "2021-02-12 08:00:00",
+        "openTime": "2021-02-12 08:00",
+        "poster": "i2/O1CN01f5OBqb1aaVsxxjPGM_!!6000000003346-0-alipicbeacon.jpg",
+        "scoreAndFavor": {
+          "favorCount": "310522",
+          "favorCountDesc": "31.1万 人想看",
+          "score": {
+            "scoreName": "暂无评分",
+            "scoreType": "1"
+          }
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=213682&hasbuybtn=false",
+        "showId": "213682",
+        "showName": "侍神令",
+        "type": "奇幻",
+        "userShowStatus": "0",
+        "wantCount": "310522"
+      },
+      {
+        "activityTag": "惠",
+        "duration": "116",
+        "fantastic": "0",
+        "leadingRole": "杨天翔,宣晓鸣",
+        "openDay": "2021-02-12 08:00:00",
+        "openTime": "2021-02-12 08:00",
+        "poster": "i2/O1CN01MD3pmI2A8PlGm8gu7_!!6000000008158-0-alipicbeacon.jpg",
+        "scoreAndFavor": {
+          "favorCount": "341945",
+          "favorCountDesc": "34.2万 人想看",
+          "score": {
+            "scoreName": "暂无评分",
+            "scoreType": "1"
+          }
+        },
+        "showDetailUrl": "https://m.taopiaopiao.com/main/moviemain/pages/show-detail/index.html?showid=1333619&hasbuybtn=false",
+        "showId": "1333619",
+        "showName": "新神榜：哪吒重生",
+        "type": "动作,动画,奇幻",
+        "userShowStatus": "0",
+        "wantCount": "341945"
+      }
+    ]
+  }

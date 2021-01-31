@@ -110,9 +110,7 @@
     </section>
     <section class="show-comments">
       <h2>观众热评</h2>
-      <ul>
-        <li v-for="(v, i) in commentObj.tabs" :key="i">{{ v.name }}</li>
-      </ul>
+      <CommentTab :commentOb="commentObj"/>
       <div class="show-comments-list">
         <CommentItem
           v-for="(v, i) in commentObj.comments"
@@ -120,7 +118,7 @@
           :commentArr="v"
         />
       </div>
-      <span>全部{{ commentObj.count }}条观众影评</span>
+      <span @click="showAllcomment()">全部{{ commentObj.count }}条观众影评</span>
     </section>
     <section class="show-deep">
       <div class="deep-title">
@@ -205,12 +203,13 @@ import { mapState, mapActions, mapMutations } from "vuex";
 import LineScore from "com/lineScore";
 import Artist from "com/artist";
 import CommentItem from "com/commentItem";
-
+import CommentTab from 'com/commentTab';
 export default {
   components: {
     LineScore,
     Artist,
     CommentItem,
+    CommentTab
   },
   methods: {
     ...mapActions("movieDetail", [
@@ -293,6 +292,9 @@ export default {
     },
     buyTicket(){
       this.$router.push("/login")
+    },
+    showAllcomment(){
+      this.$router.push({path:"/movieAllcomment",query:{showid:this.$route.query.showid}})
     }
   },
   beforeRouteEnter(to,from,next){
@@ -569,24 +571,7 @@ export default {
     padding-left: 16px;
     font-weight: 500;
   }
-  ul {
-    padding: 0 4vw;
-    overflow: hidden;
-    li {
-      float: left;
-      margin-right: 2.1vw;
-      margin-bottom: 2.7vw;
-      padding: 1.86666667vw 4vw;
-      text-align: left;
-      line-height: 3.7vw;
-      font-size: 0.8125rem;
-      color: #000;
-      position: relative;
-      list-style: none;
-      border: 1px solid #bcbcbc;
-      border-radius: 100px;
-    }
-  }
+  
   .show-comments-list {
     margin-left: 16px;
   }
